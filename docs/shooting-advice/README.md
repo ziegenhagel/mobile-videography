@@ -1,4 +1,4 @@
-# Besseres Filmen
+# 10:15 - Besseres Filmen
 
 ## Mit dem Schnitt im Kopf filmen
 Wissen, wie möchte ich das später schneiden. Sonst fehlen Bilder an Stellen und andere Bilder wiederum können nicht sinnvoll in den Schnitt eingebracht werden.

@@ -1,6 +1,6 @@
-# Filme analysieren
+# 09:30 - Filme analysieren
 
-## 1. WHODUNNIT 
+## Film 1: Whodunnit 
 Eine Apple Werbung für den Cinematic mode des iPhone 13.
 
 <video src="/videos/whodunnit.mp4" controls poster="/videos/whodunnit.jpg" />
@@ -69,7 +69,7 @@ Ein häufig genutztes Filmstilmittel ist Eintritts und Austrittspunkt einer Gesc
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
-## 2. INVASION
+## Film 2: Invasion
 Ein Sci-fi Kurzfilm.
 
 <video src="/videos/invasion.mp4" style="aspect-ratio:auto;" controls poster="/videos/invasion.jpg" />
@@ -139,7 +139,11 @@ Am Ende dieser Dollyfahrt schliesst sich aus den Silhouetten von Parkhaus und Da
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
-## 3. Behind the scenes
+## Film 3: Behind the scenes
 Ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
 
 <video src="/videos/bts.mp4" controls poster="/videos/bts.jpg" />
+
+::: warning Welche Techniken waren hinter den Kulissen zu sehen?
+Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
+:::

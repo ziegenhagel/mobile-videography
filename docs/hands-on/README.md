@@ -1,4 +1,6 @@
-# Ein Beispiel Dreh
+# 11:30 - Ein Beispiel Dreh
+
+## Beschreibung
 
 ::: warning Kurzfilm drehen
 Szenario: In der Kantine wurde ausversehen entkoffeinierter Kaffe ausgegeben.
@@ -8,6 +10,6 @@ Szenario: In der Kantine wurde ausversehen entkoffeinierter Kaffe ausgegeben.
 Es empfiehlt sich mit 10min pro Einstellung zu kalkulieren.
 ::: 
 
-Hier noch die Resourcen aus dem Kurs:
+## Resourcen aus dem Kurs
 - [Tipps für Besseres Filmen](/shooting-advice)
 - [Film Analysen](/examples)

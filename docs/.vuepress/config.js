@@ -1,10 +1,11 @@
 const {defaultTheme} = require('@vuepress/theme-default')
 
 module.exports = {
-    lang: 'en-US',
+    lang: 'de-DE',
     title: 'Mobile Videography',
     description: 'Das Smartphone zur Kinokamera machen ...',
-    themeConfig: {},
+    themeConfig: {
+    },
     theme: defaultTheme({
         logo: '/images/logoDark.png',
         contributors: false,
