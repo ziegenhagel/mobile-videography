@@ -15,7 +15,3 @@ Apps wie z.B. FiLMiC PRO ermöglichen manuelle Einstellungen zu Fokus, Belichtun
 - 10bit falls möglich, ansonsten 8 bit (späteres Arbeiten mit Farben erleichtern)
 - 24 Bilder pro Sekunde (für Film-typische Bewegungsunschärfe)
 - Flaches Farbprofil (z.B. LOG)
-
-## Technical part:
-
-6. Software explained: Filmic Pro 

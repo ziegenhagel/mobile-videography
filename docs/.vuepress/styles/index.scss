@@ -16,12 +16,17 @@ html.dark {
 
 }
 
-details p img {
-  margin-top: 10px;
+main img {
+  margin-bottom: 10px;
+  display: block;
+  max-height: 50vh;
   border-radius: 3px;
 }
 
-details .custom-container.tip {
+details img {
+  margin-top: 10px;
+}
+  details .custom-container.tip {
   padding-bottom: 20px;
 }
 
