@@ -112,7 +112,26 @@ Intesive Erfahrung durch sehr nahe Kameraeinstellung. Im echten Leben müsste si
 
 ::: details Durch andere Objekte Filmen
 ![Dolly](/images/examples/example14.jpg)
-Nutzen von Reflektionen / Glasscheiben / Spiegel.
+Nutzen von Reflektionen in Glasscheiben, Spiegeln oder Flüssigkeiten.
+::: tip Kreativ werden
+Es kann auch in eine Flasche auf dem Meer / von unten durch ein Glas / in einer Mikrowelle oder durch eine Kloschüssel gefilmt werden.
+:::
+
+
+::: details Locations
+![Dolly](/images/examples/example15.jpg)
+Die Produktion kann hochwertig wirken, wenn uns die Locations nur selten oder gar nicht in der gezeigten Form im Alltag begegnen, wie zum Beispiel ein Krankenhaus oder eine vermeintliche Area51 Station.
+:::
+
+::: details Formen
+![Dolly](/images/examples/example16.jpg)
+Als Ausdruck von Gefühlen & Lebenssituationen der Protagonist:innen.
+:::
+
+::: details Dollyfahrt + Silhouette
+![Dolly](/images/examples/example17.jpg)
+Am Ende dieser Dollyfahrt schliesst sich aus den Silhouetten von Parkhaus und Darstellerin eine weitere Form, das Viereck.
+![Dolly](/images/examples/example18.jpg)
 :::
 
 ### Analyse
