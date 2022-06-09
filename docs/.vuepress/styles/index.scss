@@ -42,3 +42,8 @@ details .custom-container.tip .custom-container-title::after {
   font-size: 2em;
   content: '✨️';
 }
+
+video {
+  width: 100%;
+  aspect-ratio: 16/9;
+}

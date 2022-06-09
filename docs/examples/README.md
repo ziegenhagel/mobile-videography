@@ -3,7 +3,7 @@
 ## 1. WHODUNNIT 
 Eine Apple Werbung für den Cinematic mode des iPhone 13.
 
-<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/8Tl1RL8MRCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="/videos/whodunnit.mp4" controls poster="/videos/whodunnit.jpg" />
 
 ### Techniken
 Welche Techniken wurden verwendet?
@@ -71,8 +71,8 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 
 ## 2. INVASION
 Ein Sci-fi Kurzfilm.
-<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/8qZ9IrBZ8J4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video src="/videos/invasion.mp4" style="aspect-ratio:auto;" controls poster="/videos/invasion.jpg" />
 
 ### Techniken
 Welche Techniken wurden verwendet?
@@ -141,4 +141,5 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 
 ## 3. Behind the scenes
 Ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
-<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/c3CZX-lnAIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video src="/videos/bts.mp4" controls poster="/videos/bts.jpg" />
