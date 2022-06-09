@@ -1,0 +1,1 @@
+const e={key:"v-029033ee",path:"/hands-on/",title:"Ein Beispiel Dreh",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"7. The actual filming",slug:"_7-the-actual-filming",children:[]}],git:{updatedTime:1654765894e3,contributors:[{name:"Dominik",email:"dominik.ziegenhagel@gmail.com",commits:1}]},filePathRelative:"hands-on/README.md"};export{e as data};

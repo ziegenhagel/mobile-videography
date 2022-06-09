@@ -7,7 +7,8 @@ module.exports = {
     themeConfig: {
     },
     theme: defaultTheme({
-        logo: '/jfc-logo.png',
+        logo: '/logoDark.png',
+        logoDark: '/logo.png',
         sidebar: ['examples','/shooting-advice', '/camera-usage', 'hands-on', '/postproduction'],
         navbar: ['/shooting-advice', {text: 'Nützliche Links', link: '/links'}]
     }),

@@ -1,0 +1,45 @@
+Arguments: 
+  /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/domi/.yarn/bin/yarn.js add -D vuepress@next
+
+PATH: 
+  /Users/domi/.yarn/bin:/Users/domi/.config/yarn/global/node_modules/.bin:/Users/domi/.yarn/bin:/opt/homebrew/opt/make/libexec/gnubin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/MacGPG2/bin:/Users/domi/.overtime:/Users/domi/go/bin:/usr/local/opt/go/libexec/bin:/opt/flutter/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  17.5.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: connect EHOSTUNREACH 2606:4700::6810:1523:443 - Local (:::64016)
+      at internalConnect (node:net:931:16)
+      at defaultTriggerAsyncIdScope (node:internal/async_hooks:465:18)
+      at emitLookup (node:net:1075:9)
+      at /Users/domi/.yarn/lib/cli.js:103580:28
+      at /Users/domi/.yarn/lib/cli.js:103489:13
+      at RawTask.module.exports.RawTask.call (/Users/domi/.yarn/lib/cli.js:79577:19)
+      at flush (/Users/domi/.yarn/lib/cli.js:79659:29)
+      at processTicksAndRejections (node:internal/process/task_queues:78:11)
+
+npm manifest: 
+  {
+    "name": "mobile-videography",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Dominik <dominik.ziegenhagel@gmail.com>",
+    "license": "MIT",
+  
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

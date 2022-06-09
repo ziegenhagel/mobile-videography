@@ -1,0 +1,1 @@
+const t={key:"v-5fd885dd",path:"/postproduction/",title:"Postproduktion",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654765894e3,contributors:[{name:"Dominik",email:"dominik.ziegenhagel@gmail.com",commits:1}]},filePathRelative:"postproduction/README.md"};export{t as data};
