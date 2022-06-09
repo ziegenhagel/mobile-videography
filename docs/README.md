@@ -1,9 +1,10 @@
 ---
 home: true
 title: Home
+heroImage: /images/hero.jpg
 actions:
-- text: Los gehts
-  link: /shooting-advice
+- text: Filme analysieren
+  link: /examples
   type: primary
 - text: Nützliche Links
   link: /links

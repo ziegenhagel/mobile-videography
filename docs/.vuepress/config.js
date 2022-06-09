@@ -4,12 +4,13 @@ module.exports = {
     lang: 'en-US',
     title: 'Mobile Videography',
     description: 'Das Smartphone zur Kinokamera machen ...',
-    themeConfig: {
-    },
+    themeConfig: {},
     theme: defaultTheme({
-        logo: '/logoDark.png',
-        logoDark: '/logo.png',
-        sidebar: ['examples','/shooting-advice', '/camera-usage', 'hands-on', '/postproduction'],
-        navbar: ['/shooting-advice', {text: 'Nützliche Links', link: '/links'}]
+        logo: '/images/logoDark.png',
+        contributors: false,
+        tip: 'Tipp',
+        logoDark: '/images/logo.png',
+        sidebar: ['/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction'],
+        navbar: ['/', '/terms', '/links']
     }),
 }

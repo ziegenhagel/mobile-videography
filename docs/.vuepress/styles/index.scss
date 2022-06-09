@@ -9,4 +9,31 @@ html.dark {
   --c-brand-light: #EFAB3E;
   --c-tip: #EFAB3E;
 
+  --c-warning: #3584af;
+  --c-warning-bg: rgba(53, 138, 175, 0.13);
+  --c-warning-title: --c-text;
+  --c-warning-text: --c-text;
+
+}
+
+details p img {
+  margin-top: 10px;
+  border-radius: 3px;
+}
+
+details .custom-container.tip {
+  padding-bottom: 20px;
+}
+
+details .custom-container.tip .custom-container-title::after {
+  float: right;
+  font-size: 2em;
+  content: '💡';
+}
+
+
+.custom-container.warning .custom-container-title::after {
+  float: right;
+  font-size: 2em;
+  content: '✨️';
 }

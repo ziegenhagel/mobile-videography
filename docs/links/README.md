@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Nützliche Links
 ## Apps
 - FiLMiC PRO
