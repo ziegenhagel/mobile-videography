@@ -13,3 +13,5 @@ Es empfiehlt sich mit 10min pro Einstellung zu kalkulieren.
 ## Resourcen aus dem Kurs
 - [Tipps für Besseres Filmen](/shooting-advice)
 - [Film Analysen](/examples)
+
+## :bellhop_bell: Pause

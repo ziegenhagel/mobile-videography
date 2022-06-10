@@ -41,6 +41,8 @@ Das Bild aufteilen in
 - Motiv (Eine Person, Eine Schatztruhe)
 - Hintergrund (Himmel, Ein Wald, Das Meer ...)
 
+## :bellhop_bell: Pause
+
 ## Gimbal für ruhigere Fahrten
 Die Smartphone Kamera ist kleiner und leichter als eine Filmkamera. Daher steigt die Notwendigkeit für eine Stabilisation.
 Die kann zum Beispiel für bewegte Fahrten mit einem Gimbal passieren, aber auch ein Besenstiel, ein Handtuch oder ein Stapel Bücher können für ruhige Fahrten genutzt werden.
@@ -55,3 +57,6 @@ Perfektionieren der Aufnahme, späteres Schneiden erleichtern.
 Schön eingerichtete und ausgeleuchtete Locations.
 Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in einer leicht bläulichen Farbe angeleuchtet.
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
+
+
+## :bellhop_bell: Pause

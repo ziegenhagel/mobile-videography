@@ -139,6 +139,8 @@ Am Ende dieser Dollyfahrt schliesst sich aus den Silhouetten von Parkhaus und Da
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
+## :bellhop_bell: Pause
+
 ## Film 3: Behind the scenes
 Ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
 

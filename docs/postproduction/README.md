@@ -12,3 +12,11 @@ Dafür eignet sich zum Beispiel Adobe Rush.
 ::: warning Schnitt
 Es gibt eine technische Einführung.
 :::
+
+## :bellhop_bell: Pause
+
+## Schnitt in Teams
+
+::: warning Schnitt
+Material importieren und einen Rohschnitt anfertigen.
+:::
