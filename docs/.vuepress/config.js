@@ -7,10 +7,10 @@ module.exports = {
     themeConfig: {
     },
     theme: defaultTheme({
-        logo: '/images/logoDark.png',
+        logo: '/images/website/logoDark.png',
         contributors: false,
         tip: 'Tipp',
-        logoDark: '/images/logo.png',
+        logoDark: '/images/website/logo.png',
         sidebar: ['/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction'],
         navbar: ['/', '/terms', '/links']
     }),

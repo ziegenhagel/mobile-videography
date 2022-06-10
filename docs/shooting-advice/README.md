@@ -11,7 +11,7 @@ Es gibt jedoch einige Hilfestellungen.
 ### Drittel-Regel
 Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
 
-![Drittel-Regel](/images/shooting-advice/iphone/iphone29.jpg)
+![Drittel-Regel](/images/shooting-advice/rule-of-thirds.jpg)
 ::: tip 
 Zentrierte Bilder zwingen uns zum Hinsehen, das Kadrieren einer Person in einem Drittel hilft zum Beispiel, um über die Person hinaus ins Bild zu schauen. (Beispiel Detektiv beim Apple Film).
 :::
@@ -46,11 +46,17 @@ Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (z
 ### Seitliche Objekte 
 Seitliche Objekte (z.B. Blätter in der Unschärfe, ein Türrahmen) laden ein, in das Bild zu schauen.
 
+![Beispiel](/images/shooting-advice/foreground.jpg)
+
 ### Leading lines
 Leading lines führen zu mehr perspektive und lassen das Bild "räumlicher" wirken. Bei Interview Situationen in Raumecken hinein filmen, statt gegen eine Wand.
 
+![Beispiel](/images/shooting-advice/leading-lines.jpg)
+
 ### Umpositionieren statt zoomen
 Vorteile: Mehr Perspektivenwahrnehmung, mehr Schärfeseparation und wir sind näher am Geschehen dran.
+
+![Beispiel](/images/shooting-advice/umpositionieren.jpg)
 
 ### Bildtiefe erhöhen
 Das Bild aufteilen in 
@@ -58,11 +64,13 @@ Das Bild aufteilen in
 - Motiv (Eine Person, Eine Schatztruhe)
 - Hintergrund (Himmel, Ein Wald, Das Meer ...)
 
-## :bellhop_bell: Pause
+![Beispiel](/images/shooting-advice/fg-bg.jpg)
 
 ## Gimbal für ruhigere Fahrten
 Die Smartphone Kamera ist kleiner und leichter als eine Filmkamera. Daher steigt die Notwendigkeit für eine Stabilisation.
 Die kann zum Beispiel für bewegte Fahrten mit einem Gimbal passieren, aber auch ein Besenstiel, ein Handtuch oder ein Stapel Bücher können für ruhige Fahrten genutzt werden.
+
+<video src="/videos/shooting-advice/dolly.mp4" style="aspect-ratio:auto;" loop muted autoplay />
 
 ## Hohe Bildraten benutzen (Slo-mo)
 In Slo-mo ist der Fokus auf Bewegungen viel genauer. Aufnahmen können "epischer" wahrgenommen werden.
@@ -74,6 +82,10 @@ Perfektionieren der Aufnahme, späteres Schneiden erleichtern.
 Schön eingerichtete und ausgeleuchtete Locations.
 Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in einer leicht bläulichen Farbe angeleuchtet.
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
+
+## :bellhop_bell: Pause
+
+<video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
 
 ## Auf Wunsch: Kleiner Lichtexkurs
 Falls Interesse und Zeit besteht, ein winziger Lichtexkurs für Leuchten mit natürlichem und bereits vorhandenem Licht.

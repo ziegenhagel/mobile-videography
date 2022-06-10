@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/hero.jpg
+heroImage: /images/website/hero.jpg
 actions:
 - text: Zum Guide ›
   link: /examples
