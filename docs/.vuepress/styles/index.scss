@@ -16,7 +16,7 @@ html.dark {
 
 }
 
-main img {
+main img, main video {
   margin-bottom: 10px;
   display: block;
   max-height: 50vh;
@@ -26,7 +26,10 @@ main img {
 details img {
   margin-top: 10px;
 }
-  details .custom-container.tip {
+details video {
+  margin: 10px 0;
+}
+details .custom-container.tip {
   padding-bottom: 20px;
 }
 

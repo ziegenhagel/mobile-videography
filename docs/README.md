@@ -6,9 +6,12 @@ actions:
 - text: Zum Guide ›
   link: /examples
   type: secondary
-footer: Copyright © 2022
 ---
 
 ::: warning Das ist nur eine Vorschau
 ### Selbstgedrehtes Material folgt in Kürze! :)
 :::
+<hr/>
+<footer style="text-align: center">
+Zusammenstellung von  <a target="_blank" href="https://ziegenhagel.com">Dominik Ziegenhagel</a>
+</footer>

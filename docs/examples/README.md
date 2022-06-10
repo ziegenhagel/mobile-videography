@@ -3,18 +3,16 @@
 ## Film 1: Whodunnit 
 Eine Apple Werbung für den Cinematic mode des iPhone 13.
 
-<video src="/videos/whodunnit.mp4" controls poster="/videos/whodunnit.jpg" />
+<video src="/videos/examples/whodunnit.mp4" controls poster="/videos/examples/whodunnit.jpg" />
 
 ### Techniken
 Welche Techniken wurden verwendet?
 
 ::: details Dollyfahrt
-Eine langsame Kamerafahrt in das Bild hinein ...
-![Dolly](/images/examples/example1-2.jpg)
-... kann Tiefe im Bild erzeugen.
-![Dolly](/images/examples/example1.jpg)
+<video src="/videos/examples/whodunnit-dolly.mp4" autoplay muted loop/>
+Eine langsame Kamerafahrt in das Bild hinein kann Tiefe im Bild erzeugen.
+
 Letztendliches Freigeben eines zweiten Bildes, Zusammenfügen von zwei Spielorten / Situationen.
-![Dolly](/images/examples/example1-3.jpg)
 
 ::: tip Kranfahrt
 Außerdem wird hier mit einem Kran gearbeitet, um die Kamera ins Bild zu positionieren, diese aus Hollywood Filmen wohlbekannte Bewegung verstärkt den cinematischen Effekt noch weiter ...
@@ -72,7 +70,7 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 ## Film 2: Invasion
 Ein Sci-fi Kurzfilm.
 
-<video src="/videos/invasion.mp4" style="aspect-ratio:auto;" controls poster="/videos/invasion.jpg" />
+<video src="/videos/examples/invasion.mp4" style="aspect-ratio:auto;" controls poster="/videos/examples/invasion.jpg" />
 
 ### Techniken
 Welche Techniken wurden verwendet?
@@ -124,14 +122,15 @@ Die Produktion kann hochwertig wirken, wenn uns die Locations nur selten oder ga
 :::
 
 ::: details Formen
-![Dolly](/images/examples/example16.jpg)
 Als Ausdruck von Gefühlen & Lebenssituationen der Protagonist:innen.
+<video src="/videos/examples/invasion-shape.mp4" poster="/images/examples/example16.jpg" style="aspect-ratio:auto;" loop muted autoplay />
+::: tip Kombination
+Hier wird das ganze noch mit einer Rausfahrt aus dem Bild verstärkt. Die Protagonistin wirkt alleine gelassen und durch den kleinen Kreis isoliert.
 :::
 
 ::: details Dollyfahrt + Silhouette
-![Dolly](/images/examples/example17.jpg)
 Am Ende dieser Dollyfahrt schliesst sich aus den Silhouetten von Parkhaus und Darstellerin eine weitere Form, das Viereck.
-![Dolly](/images/examples/example18.jpg)
+<video src="/videos/examples/invasion-silhouette.mp4" style="aspect-ratio:auto;" loop muted autoplay />
 :::
 
 ### Analyse
@@ -144,7 +143,7 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 ## Film 3: Behind the scenes
 Ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
 
-<video src="/videos/bts.mp4" controls poster="/videos/bts.jpg" />
+<video src="/videos/examples/bts.mp4" controls poster="/videos/examples/bts.jpg" />
 
 ::: warning Welche Techniken waren hinter den Kulissen zu sehen?
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
