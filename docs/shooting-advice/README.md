@@ -85,6 +85,13 @@ Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 
 ## :bellhop_bell: Pause
 
+## Film 4: Don't byte me
+::: warning Analyse
+Hier der gesamte Film. Neben den genannten Stilmittel sind auch viele weitere im Film verwendet.
+
+Falls Interesse und Zeit besteht, Anschauen und kurzes Besprechen der Techniken und deren Wirkung.
+:::
+
 <video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
 
 ## Auf Wunsch: Kleiner Lichtexkurs
