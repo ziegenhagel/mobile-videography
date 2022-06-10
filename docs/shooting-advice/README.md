@@ -3,11 +3,6 @@
 ## Mit dem Schnitt im Kopf filmen
 Wissen, wie möchte ich das später schneiden. Sonst fehlen Bilder an Stellen und andere Bilder wiederum können nicht sinnvoll in den Schnitt eingebracht werden.
 
-## Jede Einstellung hat ihre eigene Story
-Jede Einstellung muss etwas zum Gesamten beitragen, sollte aber auch in sich jeweils eine kleine Geschichte erzählen.
-
-Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
-
 ## Bildkomposition 
 Alles, was im Bild zu sehen ist, sagt etwas aus. Wenn Objekte aus dem Bild gehalten werden, kann das allerdings auch etwas erzählen.
 
@@ -16,21 +11,43 @@ Es gibt jedoch einige Hilfestellungen.
 ### Drittel-Regel
 Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
 
-![Drittel-Regel](/images/shooting-advice/rule-of-thirds.jpg)
+![Drittel-Regel](/images/shooting-advice/iphone/iphone29.jpg)
 ::: tip 
 Zentrierte Bilder zwingen uns zum Hinsehen, das Kadrieren einer Person in einem Drittel hilft zum Beispiel, um über die Person hinaus ins Bild zu schauen. (Beispiel Detektiv beim Apple Film).
 :::
 
 ### Balance
-![Drittel-Regel](/images/shooting-advice/balance.jpg)
-Die Gebäude sind nicht symmetrisch angeordnet, die Sonne bringt allerdings ein zusätzliches Gewicht ins Bild, darum wirkt das Bild wieder balanciert. 
+![Schlechtere Balance](/images/shooting-advice/iphone/iphone9.jpg)
+In diesem Bild ist der Bagger zentriert und eine störende Linie (Die Abrisskante) verläuft quer durchs Bild, ohne etwas in das Bild einzubringen.
+
+![Bessere Balance](/images/shooting-advice/iphone/iphone11.jpg)
+
+In diesem Beispiel ist der Bagger nicht zentriert, sondern das "mittlere" Gewicht aus Bagger und Lastenrad. Dadurch gibt es horizontal eine Balance.
+Die jetzt sichtbare Rundung an der Ecke der Abrisskante und die Kettenspuren bilden ein weiches Gegengewicht zum Himmel.
+Die Kante lenkt den Blick jetzt auch nicht mehr aus dem Bild sondern dient als leichtes Gegengewicht zu dem zweiten Bagger.
+
+Dadurch wirken die Elemente und auch das gesamte Bild besser balanciert.
+
+::: tip Weiches Licht
+Diese Fotos wurden sehr früh morgens kurz nach Sonnenaufgang geschossen. Dadurch ist das Licht sehr weich und die Schwankung zwischen
+Helligkeitsstufen ist sehr gering. In diesen für die Handykamera "einfachen" Lichtsituation können die Bilder mit DSLR Kameras mithalten. 
+
+Das gleiche Foto mit derselben Kamera an einem Tag mit schlechterem Licht sieht direkt anders aus:
+
+![Bessere Balance](/images/shooting-advice/iphone/iphone17.jpg)
+:::
+
+
+### Jede Einstellung hat eine Story
+Jede Einstellung muss etwas zum Gesamten beitragen, sollte aber auch in sich jeweils eine kleine Geschichte erzählen.
+
+Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
 
 ### Seitliche Objekte 
-![Drittel-Regel](/images/shooting-advice/foreground.jpg)
-Seitliche Objekte laden ein, in das Bild zu schauen
+Seitliche Objekte (z.B. Blätter in der Unschärfe, ein Türrahmen) laden ein, in das Bild zu schauen.
 
-### In Raumecken hinein filmen
-Leading lines führen zu mehr perspektive und lassen das Bild "räumlicher" wirken.
+### Leading lines
+Leading lines führen zu mehr perspektive und lassen das Bild "räumlicher" wirken. Bei Interview Situationen in Raumecken hinein filmen, statt gegen eine Wand.
 
 ### Umpositionieren statt zoomen
 Vorteile: Mehr Perspektivenwahrnehmung, mehr Schärfeseparation und wir sind näher am Geschehen dran.
