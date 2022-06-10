@@ -9,12 +9,12 @@ Jede Einstellung muss etwas zum Gesamten beitragen, sollte aber auch in sich jew
 Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
 
 ## Bildkomposition 
-Alles, was im Bild zu sehen ist, sagt etwas aus. Wenn Objekte aus dem Bild gehalten werden kann das allerdings auch etwas erzählen.
+Alles, was im Bild zu sehen ist, sagt etwas aus. Wenn Objekte aus dem Bild gehalten werden, kann das allerdings auch etwas erzählen.
 
 Bildkomposition ist Komplex, weil es unendlich viele Möglichkeiten gibt.
 Es gibt jedoch einige Hilfestellungen.
 ### Drittel-Regel
-Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, so dass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
+Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
 
 ![Drittel-Regel](/images/shooting-advice/rule-of-thirds.jpg)
 ::: tip 

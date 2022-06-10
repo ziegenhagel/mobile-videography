@@ -15,7 +15,7 @@ Eine langsame Kamerafahrt in das Bild hinein kann Tiefe im Bild erzeugen.
 Letztendliches Freigeben eines zweiten Bildes, Zusammenfügen von zwei Spielorten / Situationen.
 
 ::: tip Kranfahrt
-Außerdem wird hier mit einem Kran gearbeitet, um die Kamera ins Bild zu positionieren, diese aus Hollywood Filmen wohlbekannte Bewegung verstärkt den cinematischen Effekt noch weiter ...
+Außerdem wird hier mit einem Kran gearbeitet, um die Kamera ins Bild zu positionieren, diese aus Hollywood Filmen wohlbekannte Bewegung verstärkt den kinematischen Effekt noch weiter ...
 :::
 
 ::: details Szenenbild
@@ -23,7 +23,7 @@ Bei einem interessanten und filmischen Szenenbild vernachlässigt das Publikum d
 ![Dolly](/images/examples/example2.jpg)
 
 ::: tip Licht und Kadrage
-Zusätzlich ist das Bild sehr symmetrisch arrangiert und kadriert, was eine stärkere Bild-Ästhetik erzeugt als vom Auge / von zufälligen Handybildern gewohnt.
+Zusätzlich ist das Bild sehr symmetrisch arrangiert, was eine stärkere Bild-Ästhetik erzeugt als vom Auge / von zufälligen Handybildern gewohnt.
 :::
 
 ::: details Bildkomposition
@@ -44,7 +44,7 @@ Aus einer ungewohnten Perspektive zu filmen kann helfen den Sehgewohnheiten zu e
 Hier ergibt sich aber noch ein anderer Nutzen, wir begeben uns wortwörtlich auf eine Ebene mit dem Hund. 
 
 ::: tip Bildtiefe
-In diesem Bild gibt es keine sog. Leading Lines. Linien führen nicht in das Bild sondern nur hoizontal und vertikal, aber nicht zum Blickpunkt des Bildes.
+In diesem Bild gibt es keine sog. Leading Lines. Linien führen nicht in das Bild, sondern nur horizontal und vertikal, aber nicht zum Blickpunkt des Bildes.
 Verstärkend wird hier auch direkt gegen eine Wand gefilmt, anstatt sich der Perspektiven einer Zimmerecke zu bedienen.
 
 Der Blick wird stattdessen über Helle und Dunkle Bildbereiche gelenkt. Heller Teppich, heller Hund. Dunkles Holz im Hintergrund.
@@ -52,9 +52,19 @@ Der Blick wird stattdessen über Helle und Dunkle Bildbereiche gelenkt. Heller T
 Die Kombination dieser beiden Mittel führt für den Hund, und dadurch für das Publikum, zu einer Situation ohne Fluchtmöglichkeit, die bedrängend wirkt.
 :::
 
+::: details Shots mit Licht verbinden
+<video src="/videos/examples/whodunnit-connect.mp4" autoplay muted loop/>
+Um Übergänge zwischen Einstellungen weicher zu machen, huscht ein Schatten über das Kind als der Detektiv vorbeiläuft.
+:::
+
+::: details Unterschied zwischen Handy und optischer Schärfeverlagerung
+<video src="/videos/examples/whodunnit-breathing.mp4" autoplay muted loop/>
+Ein als Focus breathing (Atmen) bezeichnetes Phänomen sorgt bei optischer Schärfeverlagerung für einen leichten Zoom im Bild, der Zoom wird von einigen Handy Kamera Apps imitiert.
+:::
+
 ::: details Seitlicher Dolly (Trucking shot)
-![Dolly](/images/examples/example5.jpg)
-![Dolly](/images/examples/example6.jpg)
+
+<video src="/videos/examples/whodunnit-end.mp4" autoplay muted loop/>
 
 Wie in der ersten Szene wird hier sehr elegant eine Kamerabewegung gewählt, um zwei Einstellungen / Situationen miteinander zu verbinden.
 
@@ -77,13 +87,13 @@ Welche Techniken wurden verwendet?
 
 ::: details Leading lines
 ![Dolly](/images/examples/example7.jpg)
-In diesem Bild führen sog. Leading lines auf ein Bildzentrum hin, um das Auge zu lenken. Das ganze wird verstärkt durch eine Dollyfahrt, die auch signalisiert, dass hier eine Geschichte stattfinden wird.
+In diesem Bild führen sog. Leading lines auf ein Bildzentrum hin, um das Auge zu lenken. Das Ganze wird verstärkt durch eine Dollyfahrt, die auch signalisiert, dass hier eine Geschichte stattfinden wird.
 ![Dolly](/images/examples/example7-arrows.jpg)
 :::
 
 ::: details Cinematische Titel
 ![Dolly](/images/examples/example8.jpg)
-Viel Abstand, klarer Kontrast, leichter Zoom - Ein Beispiel für einen cinematischen Titel.
+Viel Abstand, klarer Kontrast, leichter Zoom - ein Beispiel für einen kinematischen Titel.
 :::
 
 ::: details Atmosphäre
@@ -95,7 +105,7 @@ Film lebt von aufgebauter Atmosphäre. Hier werden simplen Formen in einer Darst
 ![Dolly](/images/examples/example10.jpg)
 Es wurde bei Sonnenaufgang gefilmt, um weiche Schatten und einen kalt-warm Verlauf im Himmel zu erzeugen.
 ::: tip Orange & Türkis
-... sind die im Filmbereich am häufigsten verwendeten komplementäre Farbpaare, da sie meist natürlich auftreten (Hautfarbe/Holz und Himmel/Wasser) und dann nur noch etwas gepushed werden müssen um wunderschönen Farbkontrast zu erzielen.
+... sind die im Filmbereich am häufigsten verwendeten komplementäre Farbpaare, da sie meist natürlich auftreten (Hautfarbe/Holz und Himmel/Wasser) und dann nur noch etwas gepushed werden müssen, um wunderschönen Farbkontrast zu erzielen.
 :::
 
 ::: details Silhouette
