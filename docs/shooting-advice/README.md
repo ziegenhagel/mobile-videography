@@ -58,5 +58,7 @@ Schön eingerichtete und ausgeleuchtete Locations.
 Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in einer leicht bläulichen Farbe angeleuchtet.
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 
+## Auf Wunsch: Kleiner Lichtexkurs
+Falls Interesse und Zeit besteht, ein winziger Lichtexkurs für Leuchten mit natürlichem und bereits vorhandenem Licht.
 
 ## :bellhop_bell: Pause
