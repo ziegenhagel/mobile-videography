@@ -11,7 +11,7 @@ module.exports = {
         contributors: false,
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
-        sidebar: ['/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction'],
+        sidebar: ['/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction', '/resume'],
         navbar: ['/', '/terms', '/links']
     }),
 }

@@ -150,7 +150,7 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 
 ## :bellhop_bell: Pause
 
-## Film 3: Behind the scenes
+## :gift: Film 3: Behind the scenes
 Falls Interesse und Zeit besteht, hier ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
 
 <video src="/videos/examples/bts.mp4" controls poster="/videos/examples/bts.jpg" />
