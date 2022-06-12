@@ -77,6 +77,8 @@ Ein häufig genutztes Filmstilmittel ist Eintritts und Austrittspunkt einer Gesc
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
+## :bellhop_bell: Pause
+
 ## Film 2: Invasion
 Ein Sci-fi Kurzfilm.
 

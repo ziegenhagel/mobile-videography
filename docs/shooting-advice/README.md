@@ -83,6 +83,10 @@ Schön eingerichtete und ausgeleuchtete Locations.
 Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in einer leicht bläulichen Farbe angeleuchtet.
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 
+## Farbgestaltung
+Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite).
+
+
 ## :bellhop_bell: Pause
 
 ## :gift: Film 4: Don't byte me
@@ -94,7 +98,9 @@ Falls Interesse und Zeit besteht, Anschauen und kurzes Besprechen der Techniken 
 
 <video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
 
-## :gift: Auf Wunsch: Kleiner Lichtexkurs
-Falls Interesse und Zeit besteht, ein winziger Lichtexkurs für Leuchten mit natürlichem und bereits vorhandenem Licht.
+## :gift: Licht-Exkurs
+Falls Interesse und Zeit besteht, ein winziger Licht-Exkurs für Leuchten mit natürlichem und bereits vorhandenem Licht.
 
+## :gift: Weitere Beispiele
+Falls Interesse und Zeit besteht, können wir weitere Beispiele analysieren.
 ## :bellhop_bell: Pause

@@ -8,7 +8,6 @@ Apps wie z.B. FiLMiC PRO ermöglichen manuelle Einstellungen zu Fokus, Belichtun
 
 [Für Android herunterladen](https://play.google.com/store/apps/details?id=com.filmic.filmicpro&hl=de&gl=UShttps://play.google.com/store/apps/details?id=com.filmic.filmicpro&hl=de&gl=US)
 
-
 ## Folgende Einstellungen
 
 - 4k (für größtmögliche Auflösung)
@@ -22,5 +21,9 @@ Apps wie z.B. FiLMiC PRO ermöglichen manuelle Einstellungen zu Fokus, Belichtun
 Es gibt eine technische Einführung.
 :::
 
+
+::: tip Tele- und Weitwinkelkamera
+Bei Filmkameras werden Objektive gewechselt, beim Handy werden häufig mehrere Kameras verbaut und je nach Look gewechselt.
+:::
 
 ## :bellhop_bell: Pause
