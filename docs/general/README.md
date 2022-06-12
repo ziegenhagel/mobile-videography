@@ -1,16 +1,16 @@
 # 09:20 - Grundlegendes
 
-## :speech_balloon: Warum mit dem Handy?
+## Warum mit dem Handy?
 
 - Handys/Tablets sind allgegenwärtig
 - Spontanere Aufnahmen möglich
 
-## :speech_balloon: Wozu Filmtheorie?
+## Wozu Filmtheorie?
 
 - Entscheidungen bewusster treffen
 - Bewusst bessere Videos drehen
 
-## :speech_balloon: Ziel dieses Skillshares
+## Ziel dieses Skillshares
 
 ### 1. Übersicht
 Welche Aspekte sind beim Filmen zu beachten?
@@ -48,3 +48,6 @@ Insbesondere an Personen gerichtet, die in den oberen Bereichen bereits Erfahrun
 Diese Webseite dient als Zusammenfassung, die auch im Nachhinein eine Übersicht bietet. 
 - Das Online-Handout kennenlernen
 - Feedback geben: Wie kann dieses Online-Handout besser werden?
+
+## :speech_balloon: Fragen?
+Zeit für Fragen.

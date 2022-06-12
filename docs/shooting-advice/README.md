@@ -1,4 +1,4 @@
-# 10:15 - Besseres Filmen
+# 10:25 - Besseres Filmen
 
 ## Mit dem Schnitt im Kopf filmen
 Wissen, wie möchte ich das später schneiden. Sonst fehlen Bilder an Stellen und andere Bilder wiederum können nicht sinnvoll in den Schnitt eingebracht werden.
@@ -89,8 +89,11 @@ Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite) und kann im Schnitt verfeinert werden, um Emotionen zu unterstützen.
 
 
+## :speech_balloon: Fragen?
+Zeit für Fragen.
 
 ## :bellhop_bell: Pause
+5 Minuten Pause.
 
 ## :gift: Film 4: Don't byte me
 <video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
@@ -144,4 +147,6 @@ Spannende Lichtsetzung die häufig im Kinobereich verwendet wird.
 
 ## :gift: Weitere Beispiele
 Falls Interesse und Zeit besteht, können wir weitere Beispiele analysieren.
+
 ## :bellhop_bell: Pause
+15 Minuten Pause.

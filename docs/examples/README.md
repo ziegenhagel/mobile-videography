@@ -77,7 +77,11 @@ Ein häufig genutztes Filmstilmittel ist Eintritts und Austrittspunkt einer Gesc
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
+## :speech_balloon: Fragen?
+Zeit für Fragen.
+
 ## :bellhop_bell: Pause
+5 Minuten Pause.
 
 ## Film 2: Invasion
 Ein Sci-fi Kurzfilm.
@@ -150,7 +154,13 @@ Am Ende dieser Dollyfahrt schliesst sich aus den Silhouetten von Parkhaus und Da
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
+
+## :speech_balloon: Fragen?
+Zeit für Fragen.
+
 ## :bellhop_bell: Pause
+5 Minuten Pause.
+
 
 ## :gift: Film 3: Behind the scenes
 Falls Interesse und Zeit besteht, hier ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.

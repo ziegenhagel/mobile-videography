@@ -13,7 +13,13 @@ Dafür eignet sich zum Beispiel Adobe Rush.
 Es gibt eine technische Einführung.
 :::
 
+
+
+## :speech_balloon: Fragen?
+Zeit für Fragen.
+
 ## :bellhop_bell: Pause
+Flexible Pause.
 
 ## Schnitt in Teams
 

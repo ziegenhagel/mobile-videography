@@ -1,8 +1,9 @@
-# 13:40 - Fragen & Feedback
+# 13:30 - Fragen & Feedback
 
 ## :speech_balloon: Feedback Runde
-- Über den Workshop austauschen.
+- Entstandene Filme gemeinsam ansehen
+- Über die Filme und den Workshop austauschen.
 - Gemeinsames Brainstorming zur Umsetzung anstehender Projekte
 
-## :gift: Offene Fragen
-Zeit um nochmal einen kleinen Exkurs in ein kleines Teilgebiet zu machen.
+## :gift: Ausblick
+Möglichkeit bei Interesse und Zeit nochmal einen kleinen Exkurs in ein Teilgebiet zu machen.

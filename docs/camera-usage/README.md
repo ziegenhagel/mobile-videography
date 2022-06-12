@@ -26,4 +26,9 @@ Es gibt eine technische Einführung.
 Bei Filmkameras werden Objektive gewechselt, beim Handy werden häufig mehrere Kameras verbaut und je nach Look gewechselt.
 :::
 
+
+## :speech_balloon: Fragen?
+Zeit für Fragen.
+
 ## :bellhop_bell: Pause
+Flexible Pause.

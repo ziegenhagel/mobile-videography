@@ -14,4 +14,10 @@ Es empfiehlt sich mit 10min pro Einstellung zu kalkulieren.
 - [Tipps für Besseres Filmen](/shooting-advice)
 - [Film Analysen](/examples)
 
+
+
+## :speech_balloon: Fragen?
+Zeit für Fragen.
+
 ## :bellhop_bell: Pause
+Flexible Pause.
