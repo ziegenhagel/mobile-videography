@@ -90,16 +90,54 @@ Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requis
 ## :bellhop_bell: Pause
 
 ## :gift: Film 4: Don't byte me
+<video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
+
 ::: warning Analyse
-Hier der gesamte Film. Neben den genannten Stilmittel sind auch viele weitere im Film verwendet.
+Neben den unter den Screenshots genannten Stilmitteln werden viele weitere im Film verwendet.
 
 Falls Interesse und Zeit besteht, Anschauen und kurzes Besprechen der Techniken und deren Wirkung.
 :::
 
-<video src="/videos/shooting-advice/dont_byte_me.mp4" poster="/videos/shooting-advice/dont_byte_me.jpg" style="aspect-ratio:auto;" controls />
 
 ## :gift: Licht-Exkurs
 Falls Interesse und Zeit besteht, ein winziger Licht-Exkurs für Leuchten mit natürlichem und bereits vorhandenem Licht.
+
+### Mittags-Sonne
+
+Hartes Licht, maximal als Licht von hinten nutzen.
+
+![Licht Beispiel](/images/shooting-advice/light2.jpg)
+
+### Goldener Stunde
+
+Weiches Licht und warme Farben. Am besten als Licht von hinten nutzen.
+
+![Licht Beispiel](/images/shooting-advice/light1.jpg)
+
+### Bewölkter Himmel
+
+Weiches kaltes Licht, nicht frontal. Bei seitlichem Einfall erzeugt es Tiefe im Gesicht.
+
+![Licht Beispiel](/images/shooting-advice/light3.jpg)
+
+### Kameraseitig (engl. Broad side)
+
+Einfache und schnelle Aufhellung, leider sehr uninteressant und matschig.
+
+![Licht Beispiel](/images/shooting-advice/light5.jpg)
+
+### Bühnenseitig (engl.  Far side)
+
+Gefahr, dass Lichtquelle im Bild zu sehen ist oder Lensflares erzeugt. Dafür aber schöne Separation der Ebenen, besseres Gefühl von Bildtiefe.
+
+![Licht Beispiel](/images/shooting-advice/light4.jpg)
+
+### Abwechselnd (engl. Checkerboard)
+
+Spannende Lichtsetzung die häufig im Kinobereich verwendet wird.
+
+![Licht Beispiel](/images/shooting-advice/light6.jpg)
+
 
 ## :gift: Weitere Beispiele
 Falls Interesse und Zeit besteht, können wir weitere Beispiele analysieren.
