@@ -8,6 +8,13 @@ Alles, was im Bild zu sehen ist, sagt etwas aus. Wenn Objekte aus dem Bild gehal
 
 Bildkomposition ist Komplex, weil es unendlich viele Möglichkeiten gibt.
 Es gibt jedoch einige Hilfestellungen.
+
+
+### Jede Einstellung hat eine Story
+Jede Einstellung muss etwas zum Gesamten beitragen, sollte aber auch in sich jeweils eine kleine Geschichte erzählen.
+
+Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
+
 ### Drittel-Regel
 Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
 
@@ -38,11 +45,19 @@ Das gleiche Foto mit derselben Kamera an einem Tag mit schlechterem Licht sieht 
 :::
 
 
-### Jede Einstellung hat eine Story
-Jede Einstellung muss etwas zum Gesamten beitragen, sollte aber auch in sich jeweils eine kleine Geschichte erzählen.
+### Umpositionieren statt zoomen
+Vorteile: Mehr Perspektivenwahrnehmung, mehr Schärfeseparation und wir sind näher am Geschehen dran.
 
-Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
+![Beispiel](/images/shooting-advice/umpositionieren.jpg)
 
+
+### Bildtiefe erhöhen
+Das Bild aufteilen in
+- Vordergrund (Blätter, eine Schulter, ...)
+- Motiv (Eine Person, Eine Schatztruhe)
+- Hintergrund (Himmel, Ein Wald, Das Meer ...)
+
+![Beispiel](/images/shooting-advice/fg-bg.jpg)
 ### Seitliche Objekte 
 Seitliche Objekte (z.B. Blätter in der Unschärfe, ein Türrahmen) laden ein, in das Bild zu schauen.
 
@@ -52,19 +67,6 @@ Seitliche Objekte (z.B. Blätter in der Unschärfe, ein Türrahmen) laden ein, i
 Leading lines führen zu mehr perspektive und lassen das Bild "räumlicher" wirken. Bei Interview Situationen in Raumecken hinein filmen, statt gegen eine Wand.
 
 ![Beispiel](/images/shooting-advice/leading-lines.jpg)
-
-### Umpositionieren statt zoomen
-Vorteile: Mehr Perspektivenwahrnehmung, mehr Schärfeseparation und wir sind näher am Geschehen dran.
-
-![Beispiel](/images/shooting-advice/umpositionieren.jpg)
-
-### Bildtiefe erhöhen
-Das Bild aufteilen in 
-- Vordergrund (Blätter, eine Schulter, ...)
-- Motiv (Eine Person, Eine Schatztruhe)
-- Hintergrund (Himmel, Ein Wald, Das Meer ...)
-
-![Beispiel](/images/shooting-advice/fg-bg.jpg)
 
 ## Gimbal für ruhigere Fahrten
 Die Smartphone Kamera ist kleiner und leichter als eine Filmkamera. Daher steigt die Notwendigkeit für eine Stabilisation.
@@ -84,7 +86,8 @@ Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in 
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 
 ## Farbgestaltung
-Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite).
+Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite) und kann im Schnitt verfeinert werden, um Emotionen zu unterstützen.
+
 
 
 ## :bellhop_bell: Pause
