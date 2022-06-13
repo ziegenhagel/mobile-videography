@@ -4,6 +4,11 @@ const {searchPlugin} = require('@vuepress/plugin-search')
 
 module.exports = {
 
+    plugins: [
+        searchPlugin({
+            // options
+        }),
+    ],
     lang: 'de-DE',
     title: 'Mobile Videography',
     description: 'Das Smartphone zur Kinokamera machen ...',

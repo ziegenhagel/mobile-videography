@@ -80,9 +80,6 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 ## :speech_balloon: Fragen?
 Zeit für Fragen.
 
-## :bellhop_bell: Pause
-5 Minuten Pause.
-
 ## Film 2: Invasion
 Ein Sci-fi Kurzfilm.
 
