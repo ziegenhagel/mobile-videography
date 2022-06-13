@@ -1,4 +1,4 @@
-# 09:30 - Filme analysieren
+# 09:30 - Film Analyse
 
 ## Film 1: Whodunnit 
 Eine Apple Werbung für den Cinematic mode des iPhone 13.

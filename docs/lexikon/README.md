@@ -1,4 +1,4 @@
-# Fachwörter
+# Lexikon
 
 ## Sequenz
 Teil des Films, der aus mehreren Szenen bestehen kann.

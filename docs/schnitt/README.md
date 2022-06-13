@@ -1,4 +1,4 @@
-# 13:00 - Postproduktion 
+# 13:00 - Schnitt 
 
 ## App für den Schnitt 
 Dafür eignet sich zum Beispiel Adobe Rush.

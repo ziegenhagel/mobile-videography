@@ -1,4 +1,4 @@
-# 10:25 - Besseres Filmen
+# 10:25 - Bildgestaltung
 
 ## Mit dem Schnitt im Kopf filmen
 Wissen, wie möchte ich das später schneiden. Sonst fehlen Bilder an Stellen und andere Bilder wiederum können nicht sinnvoll in den Schnitt eingebracht werden.

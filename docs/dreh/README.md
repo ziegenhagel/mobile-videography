@@ -1,4 +1,4 @@
-# 11:30 - Beispiel Dreh
+# 11:30 - Dreh
 
 ## Beschreibung
 

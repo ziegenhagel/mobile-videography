@@ -4,8 +4,8 @@ title: Home
 heroImage: /images/website/hero.jpg
 actions:
 
-- text: Zum Guide ›
-  link: /general
+- text: Online-Handout ›
+  link: /basics
   type: secondary
 ---
 <hr style="margin:40px 0"/>

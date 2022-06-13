@@ -20,7 +20,7 @@ module.exports = {
         contributors: false,
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
-        sidebar: ['/general', '/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction', '/resume'],
-        navbar: ['/', '/terms', '/links']
+        sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
+        navbar: ['/', '/lexikon', '/programme']
     }),
 }
