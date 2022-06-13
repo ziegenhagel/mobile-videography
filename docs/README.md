@@ -5,7 +5,7 @@ heroImage: /images/website/hero.jpg
 actions:
 
 - text: Zum Guide ›
-  link: /examples
+  link: /general
   type: secondary
 ---
 <hr style="margin:40px 0"/>
