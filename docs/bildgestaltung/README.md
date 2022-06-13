@@ -89,8 +89,12 @@ Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite) und kann im Schnitt verfeinert werden, um Emotionen zu unterstützen.
 
 
-## :speech_balloon: Fragen?
+
+## :speech_balloon: Fragen
 Zeit für Fragen.
+
+## :speech_balloon: Quiz
+Zeit für ein Quiz.
 
 ## :bellhop_bell: Pause
 5 Minuten Pause.

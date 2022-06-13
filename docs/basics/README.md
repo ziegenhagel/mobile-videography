@@ -14,33 +14,23 @@
 ## Ziele des Skillshares
 
 ### 1. Übersicht bekommen
-Welche Aspekte sind beim Filmen zu beachten?
-
-- Kamera
-- Ton
-- Licht
-- Szenenbild
-- Schnitt
-- Storytelling
-- ...
+Welche Aspekte gibt es beim Film.
 
 ### 2. Filme anders wahrnehmen
 
-- Aktivere Warnehmung bei zukünftigem Medienkonsum
+- Aktivere Warnehmung 
 - Methoden aus diesem Skillshare wiedererkennen
 
-### 3. Eigenes Lernziel finden
+### 3. Sich selbst einordnen können
 
-Mit dieser Übersicht ein Ziel setzen können, zum Beispiel:
+Zum Beispiel:
 
 - Über Kamera/Ton/Schnitt/... möchte ich mehr lernen
 - Ich möchte Lernvideos/Szenischen Film/... machen
 
 
 ### 4. Online-Handout kennenlernen
-Diese Webseite dient als Zusammenfassung, die auch im Nachhinein eine Übersicht bietet. 
-- Das Online-Handout kennenlernen
-- Feedback geben: Wie kann dieses Online-Handout besser werden?
+- Diese Webseite kennenlernen
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.

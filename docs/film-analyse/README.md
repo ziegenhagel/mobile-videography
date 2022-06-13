@@ -77,7 +77,7 @@ Ein häufig genutztes Filmstilmittel ist Eintritts und Austrittspunkt einer Gesc
 Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.
 
 ## Film 2: Invasion
@@ -152,8 +152,14 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.
+
+## :speech_balloon: Quiz
+Gruppen zu dritt. Es gibt Fragen. Gruppen gegeneinander.
+- Wie kann ich emotionalel stimmung aubauen...
+- möchte zwei einstellungen miteinander verbinden
+- ...
 
 ## :bellhop_bell: Pause
 5 Minuten Pause.

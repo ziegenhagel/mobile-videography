@@ -15,7 +15,7 @@ Es gibt eine technische Einführung.
 
 
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.
 
 ## :bellhop_bell: Pause

@@ -25,7 +25,7 @@ Es empfiehlt sich mit 10min pro Einstellung zu kalkulieren.
 - Kurs durchsuchen: <SearchBox />
 
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.
 
 ## :bellhop_bell: Pause

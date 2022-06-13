@@ -1,11 +1,7 @@
 # 13:30 - Feedback
 
-## :speech_balloon: Feedback Runde
-- Entstandene Filme gemeinsam ansehen
-- Über die Filme und den Workshop austauschen.
-- Gemeinsames Brainstorming zur Umsetzung anstehender Projekte
 
-## :speech_balloon: Fragerunde
+## :speech_balloon: Fragen
 
 ::: warning Gemeinsames Brainstorming
 Insbesondere an Personen gerichtet, die in den oberen Bereichen bereits Erfahrungen haben.
@@ -13,6 +9,10 @@ Insbesondere an Personen gerichtet, die in den oberen Bereichen bereits Erfahrun
 
 - Ich habe das Problem dass ...
 - An meinen bisherigen Aufnahmen fällt mir auf dass ...
+## :speech_balloon: Feedback
+- Über die entstandenen Filme und den Workshop austauschen.
+- Gemeinsames Brainstorming zur Umsetzung anstehender Projekte
+- Anregungen zum Skillshare
 
 
 ## :gift: Ausblick

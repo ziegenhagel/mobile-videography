@@ -20,7 +20,7 @@ Bei Filmkameras werden Objektive gewechselt, beim Handy werden häufig mehrere K
 :::
 
 
-## :speech_balloon: Fragen?
+## :speech_balloon: Fragen
 Zeit für Fragen.
 
 ## :bellhop_bell: Pause
