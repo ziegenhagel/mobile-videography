@@ -1,4 +1,4 @@
-# 11:30 - Ein Beispiel Dreh
+# 11:30 - Beispiel Dreh
 
 ## Beschreibung
 
@@ -23,6 +23,7 @@ Es empfiehlt sich mit 10min pro Einstellung zu kalkulieren.
 - [Tipps für Besseres Filmen](/shooting-advice)
 - [Film Analysen](/examples)
 
+<SearchBox />
 
 
 ## :speech_balloon: Fragen?

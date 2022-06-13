@@ -3,10 +3,8 @@ const {searchPlugin} = require('@vuepress/plugin-search')
 
 
 module.exports = {
-
     plugins: [
         searchPlugin({
-            // options
         }),
     ],
     lang: 'de-DE',
@@ -15,16 +13,14 @@ module.exports = {
     themeConfig: {},
     theme: defaultTheme({
         themePlugins: {
-            activeHeaderLinks: false,
-                searchPlugin:true
+            activeHeaderLinks: false
         },
-        colorMode: 'dark',
-        colorModeSwitch: false,
+        colorModeSwitch: true,
         logo: '/images/website/logoDark.png',
         contributors: false,
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
-        sidebar: ['/general','/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction', '/resume'],
+        sidebar: ['/general', '/examples', '/shooting-advice', '/camera-usage', '/hands-on', '/postproduction', '/resume'],
         navbar: ['/', '/terms', '/links']
     }),
 }
