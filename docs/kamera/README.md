@@ -1,4 +1,4 @@
-# 11:00 - Kamera 
+# Kamera 
 
 ## Installation
 

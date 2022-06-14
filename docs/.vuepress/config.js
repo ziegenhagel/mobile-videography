@@ -9,7 +9,7 @@ module.exports = {
     ],
     lang: 'de-DE',
     title: 'Mobile Videography',
-    description: 'Das Smartphone zur Kinokamera machen ...',
+    description: 'Großes Kino mit dem Smartphone.',
     themeConfig: {},
     theme: defaultTheme({
         themePlugins: {
@@ -21,6 +21,6 @@ module.exports = {
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
         sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
-        navbar: ['/', '/lexikon', '/programme']
+        navbar: ['/', '/lexikon','/zeitplan']
     }),
 }

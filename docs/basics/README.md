@@ -1,4 +1,4 @@
-# 09:20 - Basics
+# Basics
 
 ## Warum mit dem Handy?
 

@@ -1,4 +1,4 @@
-# 09:30 - Film Analyse
+# Film Analyse
 
 ## Film 1: Whodunnit 
 Eine Apple Werbung für den Cinematic mode des iPhone 13.
@@ -150,9 +150,6 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
 
-## :speech_balloon: Fragen
-Zeit für Fragen.
-
 ## :speech_balloon: Quiz
 Wie und wo positionieren wir Objekte und Person(en) im Bild und wo positionieren wir uns.
 
@@ -175,7 +172,8 @@ Tipp: Vielleicht nehmen die beiden die Aussenwelt dadurch auch anders wahr.
 Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
 :::
 
-
+## :speech_balloon: Fragen
+Zeit für Fragen.
 
 ## :bellhop_bell: Pause
 5 Minuten Pause.

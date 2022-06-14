@@ -1,4 +1,4 @@
-# 13:00 - Schnitt 
+# Schnitt 
 
 ## Installation
 Dafür eignet sich zum Beispiel Adobe Rush.

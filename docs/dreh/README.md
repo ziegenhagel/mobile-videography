@@ -1,4 +1,4 @@
-# 11:30 - Dreh
+# Dreh
 
 ## Beschreibung
 
