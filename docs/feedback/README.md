@@ -16,5 +16,12 @@ Insbesondere an Personen gerichtet, die bereits Erfahrungen haben.
 - Anregungen zum Skillshare
 
 
-## :gift: Ausblick
+## :gift: Wave to the waves
 Möglichkeit bei Interesse und Zeit nochmal einen kleinen Exkurs in ein Teilgebiet zu machen.
+
+- Audio
+- Kameratheorie
+- Bildgestaltung
+- Optiklehre
+- Lichttheorie
+- Lichtgestaltung
