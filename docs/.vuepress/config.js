@@ -8,7 +8,7 @@ module.exports = {
         }),
     ],
     lang: 'de-DE',
-    title: 'Mobile Videography',
+    title: 'Mobile Videografie',
     description: 'Großes Kino mit dem Smartphone.',
     themeConfig: {},
     theme: defaultTheme({
