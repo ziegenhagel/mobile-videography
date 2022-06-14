@@ -1,14 +1,15 @@
-# 13:30 - Feedback
+# 13:40 - Feedback
 
 
 ## :speech_balloon: Fragen
 
 ::: warning Gemeinsames Brainstorming
-Insbesondere an Personen gerichtet, die in den oberen Bereichen bereits Erfahrungen haben.
+Insbesondere an Personen gerichtet, die bereits Erfahrungen haben.
 :::
 
 - Ich habe das Problem dass ...
 - An meinen bisherigen Aufnahmen fällt mir auf dass ...
+
 ## :speech_balloon: Feedback
 - Über die entstandenen Filme und den Workshop austauschen.
 - Gemeinsames Brainstorming zur Umsetzung anstehender Projekte
