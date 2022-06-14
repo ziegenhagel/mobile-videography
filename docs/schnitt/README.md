@@ -1,13 +1,13 @@
 # 13:00 - Schnitt 
 
-## App für den Schnitt 
+## Installation
 Dafür eignet sich zum Beispiel Adobe Rush.
 
 [Für iOS herunterladen](https://apps.apple.com/de/app/adobe-premiere-rush-für-video/id1188753863)
 
 [Für Android herunterladen](https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor&hl=de&gl=US)
 
-## Schnitteinführung
+## Einführung
 
 ::: warning Schnitt
 Es gibt eine technische Einführung.

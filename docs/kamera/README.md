@@ -1,6 +1,6 @@
 # 11:00 - Kamera 
 
-## Bessere Kamera App
+## Installation
 
 Apps wie z.B. FiLMiC PRO ermöglichen manuelle Einstellungen zu Fokus, Belichtung und Farbverwaltung.
 
@@ -8,7 +8,7 @@ Apps wie z.B. FiLMiC PRO ermöglichen manuelle Einstellungen zu Fokus, Belichtun
 
 [Für Android herunterladen](https://play.google.com/store/apps/details?id=com.filmic.filmicpro&hl=de&gl=UShttps://play.google.com/store/apps/details?id=com.filmic.filmicpro&hl=de&gl=US)
 
-## Kameraeinführung
+## Einführung
 
 ::: warning Kamera
 Es gibt eine technische Einführung.

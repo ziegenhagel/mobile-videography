@@ -154,14 +154,46 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 Zeit für Fragen.
 
 ## :speech_balloon: Quiz
-Gruppen zu dritt. Es gibt Fragen. Gruppen gegeneinander.
-- Wie kann ich emotionalel stimmung aubauen...
-- möchte zwei einstellungen miteinander verbinden
-- ...
+Wie und wo positionieren wir Objekte und Person(en) im Bild und wo positionieren wir uns.
+
+Eine beliebige zusätzliche Requiste und ein:e Darsteller:innen dürfen dem Setting hinzugefügt werden.
+
+Am besten in kleinen Teams 1-3 Einstellungen für eine theoretische Umsetzung ausdenken.
+
+::: warning Setting: Edles Haus voller Skulpturen, doch eine fehlt.
+Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
+:::
+
+::: warning Setting: Zwei Personen fühlen sich sehr glücklich zu zweit.
+Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
+
+Tipp: Vielleicht nehmen die beiden die Aussenwelt dadurch auch anders wahr.
+:::
+
+
+::: warning Setting: Eine Person sitzt vor einem Büro und hat offensichtlich Angst davor, es gleich zu betreten.
+Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
+:::
+
+
 
 ## :bellhop_bell: Pause
 5 Minuten Pause.
 
+
+## :gift: Zusätzliches Quiz
+::: warning Setting: Ein Lernvideo in Mathematik soll gedreht werden
+Welche filmischen Mittel können wir einsetzen, um möglichst viele Schüler:innen zu erreichen?
+
+- Ein konkretes Beispiel erstellen "Wir sind in einem Supermarkt"
+- Einen greifbaren geschichtlichen Hintergrund geben "Logarithmus Tafeln"
+- Anhand eines Beispiels heranführen
+- Realitätsbezug herstellen
+
+Tipp: Wir können Mengen kleiner und größer darstellen oder wirken Lassen, Zusammenhänge durch räumliche Trennung separieren oder gruppieren.
+
+Es gibt ein Beispielvideo von ARTE zum Thema "Benfordsches Gesetz".
+:::
 
 ## :gift: Film 3: Behind the scenes
 Falls Interesse und Zeit besteht, hier ein Blick hinter die Kulissen mit Phone 13 Pro, der zweifachen Oscar®-Preisträgerin Kathryn Bigelow und dem Oscar®-nominierten Kameramann Greig Fraser.
