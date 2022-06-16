@@ -15,10 +15,15 @@ Bildkomposition ist Komplex, weil es unendlich viele Möglichkeiten gibt.
 Es gibt jedoch einige Hilfestellungen.
 
 
-### Geschichten 
+### Geschichten
 Jede Einstellung hat eine Geschichte und diese muss zur gesamten Geschichte des Filmes beitragen.
 
 Dabei helfen können Bildkomposition, Lichtsetzung, Positionierung der Motive (zueinander) und insbesondere **Veränderungen** aller Komponenten im Laufe der Einstellung.
+
+### 180 Grad 
+Wir können das Bild immer in 180 Grad drehen, ohne das Publikum zu verwirren. Wie als würden wir vor einer Bühne sitzen.
+Sobald wir von der anderen Seite Filmen, sind Objekte auf der anderen Seite und Gesichter schauen in entgegengesetzte Richtungen. Das kann zu Irritation führen.
+
 
 ### Drittel
 Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
