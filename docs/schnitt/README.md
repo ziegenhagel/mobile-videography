@@ -15,14 +15,8 @@ Es gibt eine technische Einführung.
 
 
 
-## :speech_balloon: Fragen
-Zeit für Fragen.
-
-## :bellhop_bell: Pause
-Flexible Pause.
-
-## Schnitt in Teams
+## Rohschnitt
 
 ::: warning Schnitt
-Material importieren und einen Rohschnitt anfertigen.
+Anfertigung der Rohschnitte. Ggf. Kopieren von Dateien per AirDrop oder Bluetooth.
 :::

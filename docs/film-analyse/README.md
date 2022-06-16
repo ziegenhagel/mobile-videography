@@ -82,6 +82,7 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 Ein Sci-fi Kurzfilm.
 
 <video src="/videos/examples/invasion.mp4" style="aspect-ratio:auto;" controls poster="/videos/examples/invasion.jpg" />
+INVASION (2020), Pete Majarich
 
 ### Techniken
 Welche Techniken wurden verwendet?
@@ -172,8 +173,6 @@ Tipp: Vielleicht nehmen die beiden die Aussenwelt dadurch auch anders wahr.
 Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
 :::
 
-## :speech_balloon: Fragen
-Zeit für Fragen.
 
 ## :bellhop_bell: Pause
 5 Minuten Pause.

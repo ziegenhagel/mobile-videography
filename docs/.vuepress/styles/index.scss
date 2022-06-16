@@ -68,8 +68,18 @@ video {
   text-decoration: none;
 }
 
-a.action-button:hover {
+a.action-button:not(.disabled):hover {
   background: var(--c-brand);
   color: var(--c-bg);
+}
+a.action-button:hover {
   text-decoration: none;
+}
+
+.action-button.disabled {
+  pointer-events: none;
+  cursor: not-allowed;
+  color: gray;
+  border-color: gray;
+  opacity: .5;
 }

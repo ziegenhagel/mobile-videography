@@ -11,7 +11,7 @@
 - Welche Einstellung bringt welche Wirkung hervor
 - Stilmittel bewusst einsetzen
 
-## Ziele des Skillshares
+## Ziele des Workshops
 
 ### 1. Übersicht bekommen
 Welche Aspekte gibt es beim Film.
@@ -19,7 +19,7 @@ Welche Aspekte gibt es beim Film.
 ### 2. Filme anders wahrnehmen
 
 - Aktivere Warnehmung 
-- Methoden aus diesem Skillshare wiedererkennen
+- Methoden aus diesem Workshop wiedererkennen
 
 ### 3. Sich selbst einordnen können
 
@@ -32,5 +32,3 @@ Zum Beispiel:
 ### 4. Online-Handout kennenlernen
 - Diese Webseite kennenlernen
 
-## :speech_balloon: Fragen
-Zeit für Fragen.

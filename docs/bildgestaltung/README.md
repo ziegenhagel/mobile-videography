@@ -1,6 +1,11 @@
 # Bildgestaltung
 
 ## Schnitt im Kopf
+
+::: tip Einstellung / Shot / Bild
+Im Schnitt werden zwei Einstellungen durch einen Schnitt getrennt. Der Shot ist die kleinste filmische Bildeinheit vor dem Einzelbild (engl. Frame).
+:::
+
 Wissen, wie möchte ich das später schneiden. Sonst fehlen Bilder an Stellen und andere Bilder wiederum können nicht sinnvoll in den Schnitt eingebracht werden.
 
 ## Bildkomposition 
@@ -75,16 +80,11 @@ Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requis
 Das Mobile-Videografie WLAN hat keine Internetverbindung, bietet aber Zugriff auf einige Webseiten dieses Kurses.
 Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz starten:
 
-<a href="http://10.16.1.173:3000/quiz/1/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
-
-
-## :speech_balloon: Fragen
-Zeit für Fragen.
+<a href="http://10.16.1.173:3000/quiz/1/controller" target="_blank" class="action-button secondary disabled" aria-label="Online-Handout ›"> Quiz starten › </a>
 
 
 ## :bellhop_bell: Pause
-5 Minuten Pause.
-
+Eine kurze Pause.
 
 ## :gift: Balance
 ![Schlechtere Balance](/images/shooting-advice/iphone/iphone9.jpg)
@@ -160,6 +160,3 @@ Falls Interesse und Zeit besteht, Anschauen und kurzes Besprechen der Techniken 
 
 ## :gift: Weitere Beispiele
 Falls Interesse und Zeit besteht, können wir weitere Beispiele analysieren.
-
-## :bellhop_bell: Pause
-15 Minuten Pause.
