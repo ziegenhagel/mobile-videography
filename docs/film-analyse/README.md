@@ -150,7 +150,7 @@ Wie könnten einzelne Aspekte mit einfachen Mitteln nachgemacht werden?
 :::
 
 
-## :speech_balloon: Quiz
+## :speech_balloon: Aufgabe
 Wie und wo positionieren wir Objekte und Person(en) im Bild und wo positionieren wir uns.
 
 Eine beliebige zusätzliche Requiste und ein:e Darsteller:innen dürfen dem Setting hinzugefügt werden.

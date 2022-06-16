@@ -26,9 +26,11 @@ main img, main video {
 details img {
   margin-top: 10px;
 }
+
 details video {
   margin: 10px 0;
 }
+
 details .custom-container.tip {
   padding-bottom: 20px;
 }
@@ -49,4 +51,25 @@ details .custom-container.tip {
 video {
   width: 100%;
   aspect-ratio: 16/9;
+}
+
+.action-button {
+  color: var(--c-brand);
+  background-color: var(--c-bg);
+  border-color: var(--c-brand);
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.8rem 1.6rem;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  transition: background-color var(--t-color);
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+a.action-button:hover {
+  background: var(--c-brand);
+  color: var(--c-bg);
+  text-decoration: none;
 }

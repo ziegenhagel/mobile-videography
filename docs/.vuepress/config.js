@@ -1,11 +1,9 @@
 const {defaultTheme} = require('@vuepress/theme-default')
 const {searchPlugin} = require('@vuepress/plugin-search')
 
-
 module.exports = {
     plugins: [
-        searchPlugin({
-        }),
+        searchPlugin({}),
     ],
     lang: 'de-DE',
     title: 'Mobile Videografie',
@@ -21,6 +19,6 @@ module.exports = {
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
         sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
-        navbar: ['/', '/lexikon','/zeitplan']
+        navbar: ['/', '/lexikon', '/zeitplan']
     }),
 }

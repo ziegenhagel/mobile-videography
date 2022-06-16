@@ -71,7 +71,12 @@ Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requis
 
 
 ## :speech_balloon: Quiz
-Zeit für ein Quiz.
+
+Das Mobile-Videografie WLAN hat keine Internetverbindung, bietet aber Zugriff auf einige Webseiten dieses Kurses.
+Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz starten:
+
+<a href="http://10.16.1.173:3000/quiz/1/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
+
 
 ## :speech_balloon: Fragen
 Zeit für Fragen.
