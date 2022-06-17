@@ -95,16 +95,42 @@ a.action-button:hover {
 }
 
 
-@media print
-{
+@media print {
   .page .theme-default-content {
-    max-width:100%;
+    max-width: 100%;
   }
   .page {
-    padding:0;
+    padding: 0;
   }
-  .sidebar,.navbar,.page-nav,.no-print, .no-print *
-  {
+  .sidebar, .navbar, .page-nav, .no-print, .no-print * {
     display: none !important;
+  }
+}
+
+
+#schnitt img {
+  display: inline-block;
+  margin-right: 10px;
+  max-height: 70vh;
+}
+/*
+span#schnitt p:has(img)::before {
+  display: none;
+  top: 3vh;
+  position: relative;
+  z-index: 88;
+  content: "";
+  display: block;
+  height: 3vh;
+  width: 100%;
+  background: var(--c-bg);
+} */
+
+/* on phones, make the sidebar full width */
+@media screen and (max-width: 768px) {
+  #schnitt img {
+    width: 100%;
+    max-height: none;
+    margin: auto;
   }
 }
