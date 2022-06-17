@@ -1,5 +1,10 @@
 # Dreh
 
+::: tip Show don't tell!
+Alle bisher gezeigten Beispielfilme kommen gänzlich ohne Dialog aus.
+In diesem Beispieldreh soll ebenfalls ohne Dialog gearbeitet werden.
+:::
+
 ## Beschreibung
 
 ::: warning Kurzfilm drehen
@@ -19,14 +24,11 @@ Szenario 3: Ein kontroverse Beispiel von Alltags-Diskriminierung aufgreifen.
 ## Planung
 
 ### Exposé
+- Handlung
 - Allgemeine Stimmung, Absichten der Szene
-- Personen – wer ist zu sehen? Besondere
-Merkmale, Kleidung, Requisiten, wie ist die
-Mimik/Gestik/die Stimme...
+- Personen – Besondere Merkmale, Kleidung, Requisiten, wie ist die Mimik/Gestik ...
 - Ort – Hintergrund, Schauplatz,
 Wetter/Beleuchtung/Tageszeit, Besonderheiten...
-- Dialog und Intonation – wer spricht wie und mit
-welchen Worten?
 
 ### Storyboard
 
