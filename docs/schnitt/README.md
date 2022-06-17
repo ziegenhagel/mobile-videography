@@ -1,5 +1,5 @@
 # Schnitt 
-Wir schneiden jeden Tag. Unser Auge trennt u.a. durch blinzeln das gesehene in Sinnabschnitte.
+Auge trennt u.a. durch blinzeln das Gesehene in Sinnabschnitte.
 
 ## Installation
 Dafür eignet sich zum Beispiel Adobe Rush.
@@ -26,5 +26,8 @@ Es gibt eine technische Einführung.
 ## Rohschnitt
 
 ::: warning Schnitt
+
 Anfertigung der Rohschnitte. Ggf. Kopieren von Dateien per AirDrop oder Bluetooth.
+
 :::
+

@@ -19,6 +19,9 @@ module.exports = {
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
         sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
-        navbar: ['/', '/lexikon', '/zeitplan']
+        navbar: ['/', '/lexikon', '/zeitplan', {
+            text: 'PDF',
+            link: '/pdf'
+        }]
     }),
 }

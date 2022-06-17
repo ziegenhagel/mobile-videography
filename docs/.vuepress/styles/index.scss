@@ -66,12 +66,18 @@ video {
   transition: background-color var(--t-color);
   box-sizing: border-box;
   text-decoration: none;
+  margin-right: 10px;
 }
 
-a.action-button:not(.disabled):hover {
+.action-button.secondary:hover {
+  filter: brightness(0.9);
+}
+
+a.action-button:not(.disabled):hover, .action-button.secondary {
   background: var(--c-brand);
   color: var(--c-bg);
 }
+
 a.action-button:hover {
   text-decoration: none;
 }
@@ -82,4 +88,19 @@ a.action-button:hover {
   color: gray;
   border-color: gray;
   opacity: .5;
+}
+
+
+@media print
+{
+  .page .theme-default-content {
+    max-width:100%;
+  }
+  .page {
+    padding:0;
+  }
+  .sidebar,.navbar,.page-nav,.no-print, .no-print *
+  {
+    display: none !important;
+  }
 }

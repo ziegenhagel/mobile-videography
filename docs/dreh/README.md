@@ -47,3 +47,4 @@ Am besten jede Einstellung mehrmals drehen.
 
 ## :bellhop_bell: Pause
 Flexible Pause.
+

@@ -5,8 +5,9 @@
   "author": "Dominik <dominik.ziegenhagel@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "./pdf.sh; vuepress dev docs",
+    "pdf": "./pdf.sh",
+    "docs:build": "./pdf.sh; vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/plugin-search": "^2.0.0-beta.48",
