@@ -173,12 +173,11 @@ Tipp: Vielleicht nehmen die beiden die Aussenwelt dadurch auch anders wahr.
 Welche Stilmittel können wir einsetzen, um die Atmosphäre möglichst gut zu verbildlichen?
 :::
 
-
 ## :bellhop_bell: Pause
-5 Minuten Pause.
+Eine kurze Pause.
 
 
-## :gift: Zusätzliches Quiz
+## :gift: Aufgabe
 ::: warning Setting: Ein Lernvideo in Mathematik soll gedreht werden
 Welche filmischen Mittel können wir einsetzen, um möglichst viele Schüler:innen zu erreichen?
 
