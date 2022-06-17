@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: Start
 heroImage: /images/website/hero.jpg
 actions:
 
@@ -8,9 +8,4 @@ actions:
   link: /basics
   type: secondary
 ---
-<hr style="margin:40px 0"/>
-<footer style="text-align: center;">
-Zusammenstellung von  <a target="_blank" href="https://ziegenhagel.com">Dominik Ziegenhagel</a>
-</footer>
-
 
