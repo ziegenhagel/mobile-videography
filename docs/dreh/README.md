@@ -30,7 +30,7 @@ welchen Worten?
 
 ### Storyboard
 
-::: tip 
+::: tip Ca. 10min pro Einstellung
 Die Szene muss nun in Einstellungen unterteilt werden, dabei steht jede Abbildung auf dem Storyboard für eine Einstellung.
 
 Für diese Übung bitte aus Zeitgründen nicht mehr als 5 Einstellungen pro Szene planen.
@@ -38,6 +38,11 @@ Für diese Übung bitte aus Zeitgründen nicht mehr als 5 Einstellungen pro Szen
 
 ![Storyboard](/images/dreh/storyboard.jpg)
 
+## Dreh
+
+::: tip Mehrere Takes
+Am besten jede Einstellung mehrmals drehen.
+:::
 
 
 ## :bellhop_bell: Pause

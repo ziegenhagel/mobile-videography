@@ -1,4 +1,5 @@
 # Schnitt 
+Wir schneiden jeden Tag. Unser Auge trennt u.a. durch blinzeln das gesehene in Sinnabschnitte.
 
 ## Installation
 Dafür eignet sich zum Beispiel Adobe Rush.
@@ -13,7 +14,14 @@ Dafür eignet sich zum Beispiel Adobe Rush.
 Es gibt eine technische Einführung.
 :::
 
+## Hinweise
 
+- Sichtbare oder unsichtbare Schnitte
+- 30 Grad Regel
+- Blickführung (Bildschwerpunkt an unterschiedlichen Stellen)
+- Schnittgeschwindigkeit  passend zur Dramaturgie
+- Bewegungen im gleichen Tempo schneiden
+- Kaschieren von Schnitten durch Sound Design
 
 ## Rohschnitt
 

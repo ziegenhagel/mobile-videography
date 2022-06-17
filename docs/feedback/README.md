@@ -15,5 +15,7 @@ Möglichkeit bei Interesse und Zeit nochmal einen kleinen Exkurs in ein Teilgebi
 - Lichtgestaltung
 
 
-## Materialien
-[Übersicht: Video im Unterricht](https://www.lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/baum/)
+## :gift: Links
+- [Übersicht: Video im Unterricht](https://www.lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/baum/)
+- [Materialien: Video im Unterricht](https://www.lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/baum/mat/)
+- [Checkliste für Filmschnitt](https://filmpuls.info/video-schneiden-regeln/)

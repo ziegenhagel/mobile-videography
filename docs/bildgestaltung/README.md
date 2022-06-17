@@ -28,6 +28,8 @@ Totale, Nahe, Groß, Detail
 Wir können das Bild immer in 180 Grad drehen, ohne das Publikum zu verwirren. Wie als würden wir vor einer Bühne sitzen.
 Sobald wir von der anderen Seite Filmen, sind Objekte auf der anderen Seite und Gesichter schauen in entgegengesetzte Richtungen. Das kann zu Irritation führen.
 
+### 30 Grad
+Einstellungen, die nacheinander geschnitten werden sollen, wirken wie ein Ransprung, sofern der  Winkel nicht mehr als 30 Grad verändert wurde.
 
 ### Drittel
 Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zieht zwei waagerechte und zwei senkrechte Linien, sodass alle neun Teile gleich groß sind. Das zu fotografierende Motiv wird an einem der vier Schnittpunkte angelegt, man kann es aber auch längs einer Linie platzieren.
@@ -37,9 +39,6 @@ Bei der Drittel-Regel wird das Bild gedanklich in neun Teile geschnitten. Man zi
 Zentrierte Bilder zwingen uns zum Hinsehen, das Kadrieren einer Person in einem Drittel hilft zum Beispiel, um über die Person hinaus ins Bild zu schauen. (Beispiel Detektiv beim Apple Film).
 :::
 
-### Nasenraum
-
-Der Noseroom ist „der Bereich eines Bildes zwischen der Bildkante und dem Gesicht einer abgebildeten Person im (Halb-)Profil“5. In Bewegungs- oder Blickrichtung eines Menschen sollte immer etwas Raum gelassen werden, da es sonst so wirkt, als liefe er gegen eine Wand.
 
 ### Position
 Umpositionieren statt zoomen.
@@ -47,14 +46,18 @@ Vorteile: Mehr Perspektivenwahrnehmung, mehr Schärfeseparation und wir sind nä
 
 ![Beispiel](/images/bildgestaltung/umpositionieren.jpg)
 
+### Nasenraum
+
+Der Nasenraum ist der Bereich eines Bildes zwischen der Bildkante und dem Gesicht einer abgebildeten Person.
+In Bewegungs- oder Blickrichtung eines Menschen sollte immer etwas Raum gelassen werden, da es sonst so wirkt, als liefe er gegen eine Wand.
+
+
 ### Winkel
-Die Froschperspektive/Untersicht drückt Überlegenheit einer Person aus/lässt Gebäude
-mächtiger und Landschaften unübersichtlicher wirken.
+- Froschperspektive/Untersicht drückt Überlegenheit einer Person aus/lässt Gebäude mächtiger und Landschaften unübersichtlicher wirken.
 - Die Bauchhöhe betont die Perspektive von Kindern, visualisiert Unterlegenheit des Betrachters, lässt Personen überlegen wirken.
 - Auf der Augenhöhe sind Betrachter und Filmprotagonist auf einer Ebene. Das wirkt neutral und sachlich bzw. erweckt Vertrauen.
 - Die Vogelperspektive, also das Filmen weit über der Augenhöhe der Personen im Bild, verschafft Überblick und Distanz.
-- Die subjektive Kamera nimmt Bilder aus der Sicht eines der Filmcharaktere auf. Dies ermöglicht dem Zuschauer, sich in die Figur hineinzuversetzen und Situationen aus dessen Perspektive zu erleben. Hier wird in der Regel kein Stativ verwendet4.
-
+- Die subjektive Kamera (engl POV) nimmt Bilder aus der Sicht eines der Filmcharaktere auf. Dies ermöglicht dem Zuschauer, sich in die Figur hineinzuversetzen und Situationen aus dessen Perspektive zu erleben. Hier wird in der Regel kein Stativ verwendet4.
 
 ### Bildtiefe
 Das Bild aufteilen in
@@ -63,6 +66,8 @@ Das Bild aufteilen in
 - Hintergrund (Himmel, Ein Wald, Das Meer ...)
 
 ![Beispiel](/images/bildgestaltung/fg-bg.jpg)
+
+
 ### Rahmen
 Seitliche Objekte (z.B. Blätter in der Unschärfe, ein Türrahmen) laden ein, in das Bild zu schauen.
 
