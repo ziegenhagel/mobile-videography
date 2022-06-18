@@ -21,6 +21,10 @@ Bei Filmkameras werden Objektive gewechselt, beim Handy werden häufig mehrere K
 
 ## FiLMiC Pro
 
+![Foto von Julius Eiberger](/images/kamera/livetools.jpg)
+<span class="caption">Foto von Julius Eiberger</span>
+
+FiLMiC Pro ist ein Programm, das manuelle Einstellungen zu Fokus, Belichtung und Farbverwaltung ermöglicht.
 
 ### Fokus & Belichtung
 Mit dem Kreis kann durch Verschieben die Belichtung eingestellt werden, mit dem Viereck wird der Fokus gesetzt.
@@ -88,6 +92,19 @@ Aufnahme wird durch den runden weissen Button in der Ecke gestartet, der bei Auf
 Zeit, verbleibender Akku und Speicherplatz werden mittig angezeigt.
 
 ![Screenshot FiLMiC Pro](/images/kamera/c13.jpg)
+
+## ND Filter
+
+Bei einer Handykamera mit fixer Blende und fest eingestellter Belichtungszeit kann nur der ISO Wert zum Belichten verwendet werden.
+Aber gerade bei Außenaufnahmen ist die untere ISO Grenze fast sofort erreicht. Eine Sonnenbrille oder ein ND Filter können das Problem beheben.
+
+![Foto von Julius Eiberger](/images/kamera/nd.jpg)
+<span class="caption">Foto von Julius Eiberger</span>
+
+So sieht das Bild im Handy aus:
+
+<video src="/videos/kamera/nd.mov" lazy style="aspect-ratio:auto" muted autoplay loop >
+</video>
 
 ## :speech_balloon: Quiz
 

@@ -81,7 +81,7 @@ Durch den Farbkorrektur-Button kann eine Farbkorrektur hinzugefügt werden.
 ![Screenshot Adobe Rush](/images/schnitt/c22.jpg)
 ![Screenshot Adobe Rush](/images/schnitt/c23.jpg)
 
-### Fertiges Video
+### Export
 Durch den Export-Button rechts oben kann das fertige Video erstellt werden.
 
 ![Screenshot Adobe Rush](/images/schnitt/c24.jpg)
