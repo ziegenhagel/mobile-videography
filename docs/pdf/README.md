@@ -41,7 +41,7 @@ Zum Beispiel:
 
 ### 4. Online-Handout kennenlernen
 - Diese Webseite kennenlernen 
-- Alternativ [PDF herunterladen](/mobile-videografie.pdf)
+- Alternativ [PDF herunterladen](/Zusammenfassung.pdf)
 
 
 
@@ -463,6 +463,75 @@ Es gibt eine technische Einführung.
 Bei Filmkameras werden Objektive gewechselt, beim Handy werden häufig mehrere Kameras verbaut und je nach Look gewechselt.
 :::
 
+## FiLMiC Pro
+
+
+### Fokus & Belichtung
+Mit dem Kreis kann durch Verschieben die Belichtung eingestellt werden, mit dem Viereck wird der Fokus gesetzt.
+
+![Screenshot FiLMiC Pro](/images/kamera/c1.jpg)
+
+Durch Antippen wird der Wert gelockt (rot dargestellt), durch ein weiteres Antippen wird der Wert wieder freigegeben. 
+
+![Screenshot FiLMiC Pro](/images/kamera/c2.jpg)
+
+### Weissabgleich
+Durch Klick auf die Farbräder kann der Weisspunkt eingestellt werden. 
+Es können verschiedene Vorlagen für den Weisspunkt gewählt werden, wie z.B. Wolken, Sonne, Kunstlicht oder die Automatik (engl. AWB).
+Auch hier kann der Wert durch Antippen gelockt werden.
+
+![Screenshot FiLMiC Pro](/images/kamera/c3.jpg)
+
+### Manuelle Räder
+Durch Klick auf das Radsymbol können die Belichtungs- und Fokuseinstellungen präsize über die Beiden Räder eingestellt werden.
+
+![Screenshot FiLMiC Pro](/images/kamera/c4.jpg)
+Der obere Wert steht für die Sensorempfindlichkeit, der untere Wert für die Belichtungszeit.
+Hier kann der Wert ebenfalls durch Antippen gelockt werden.
+Es empfiehlt sich eine Belichtungszeit von 1/48 bei 24 Bildern pro Sekunde.
+
+![Screenshot FiLMiC Pro](/images/kamera/c5.jpg)
+
+Auf der rechten Seite kann der Fokusraum eingestellt werden. Über die beiden Markierungen können auch Fokusmarken gesetzt werden.
+Durch Antippen wird eine langsame Fahrt zum Fokuspunkt gestartet.
+
+![Screenshot FiLMiC Pro](/images/kamera/c6.jpg)
+
+### Zebras
+Die Livetools bieten die Möglichkeit, das Bild in Werten zu sehen, unabhängig von relativer Bildschirmhelligkeit.
+Zebras zeigen überbelichtete Bereiche (hier in rot) und unüberbelichtete Bereiche (hier in blau) an.
+
+![Screenshot FiLMiC Pro](/images/kamera/c7.jpg)
+Das zweite Tool ist lediglich eine weitere Darstellung für die Zebras.
+
+![Screenshot FiLMiC Pro](/images/kamera/c8.jpg)
+### False Color
+Zeigt die Belichtung des gesamten Helligkeitbereiches an. 
+- Rot überbelichteter Bereich
+- Grün gut belichteter Bereich
+- Hellblau dunkler Bereich
+- Blau sehr dunkler Bereich
+
+![Screenshot FiLMiC Pro](/images/kamera/c9.jpg)
+### Ameisen
+Oder auch Fokus Peaking zeigt an, an welchen Stellen Fokuskontrast erkannt wird.
+Bei kleinen Displays und Sonnenlicht kann diese Funktion nützlich sein, um den Fokus zu erkennen.
+
+![Screenshot FiLMiC Pro](/images/kamera/c10.jpg)
+
+### Einstellungen
+Durch Klick auf das Einstellungs-Symbol können die Einstellungen geöffnet werden.
+
+![Screenshot FiLMiC Pro](/images/kamera/c11.jpg)
+### 24 Bilder
+Durch Einstellung von 24 Bildern entsteht eine filmtypische Bewegungsunschärfe.
+
+![Screenshot FiLMiC Pro](/images/kamera/c12.jpg)
+
+Aufnahme wird durch den runden weissen Button in der Ecke gestartet, der bei Aufnahme rot dargestellt wird.
+Zeit, verbleibender Akku und Speicherplatz werden mittig angezeigt.
+
+![Screenshot FiLMiC Pro](/images/kamera/c13.jpg)
 
 ## :speech_balloon: Quiz
 
@@ -475,6 +544,11 @@ Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz st
 ## :bellhop_bell: Pause
 Flexible Pause.
 # Dreh
+
+::: tip Show don't tell!
+Alle bisher gezeigten Beispielfilme kommen gänzlich ohne Dialog aus.
+In diesem Beispieldreh soll ebenfalls ohne Dialog gearbeitet werden.
+:::
 
 ## Beschreibung
 
@@ -495,14 +569,11 @@ Szenario 3: Ein kontroverse Beispiel von Alltags-Diskriminierung aufgreifen.
 ## Planung
 
 ### Exposé
+- Handlung
 - Allgemeine Stimmung, Absichten der Szene
-- Personen – wer ist zu sehen? Besondere
-Merkmale, Kleidung, Requisiten, wie ist die
-Mimik/Gestik/die Stimme...
+- Personen – Besondere Merkmale, Kleidung, Requisiten, wie ist die Mimik/Gestik ...
 - Ort – Hintergrund, Schauplatz,
 Wetter/Beleuchtung/Tageszeit, Besonderheiten...
-- Dialog und Intonation – wer spricht wie und mit
-welchen Worten?
 
 ### Storyboard
 
@@ -534,12 +605,6 @@ Dafür eignet sich zum Beispiel Adobe Rush.
 
 [Für Android herunterladen](https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor&hl=de&gl=US)
 
-## Einführung
-
-::: warning Schnitt
-Es gibt eine technische Einführung.
-:::
-
 ## Hinweise
 
 - Sichtbare oder unsichtbare Schnitte
@@ -548,6 +613,78 @@ Es gibt eine technische Einführung.
 - Schnittgeschwindigkeit  passend zur Dramaturgie
 - Bewegungen im gleichen Tempo schneiden
 - Kaschieren von Schnitten durch Sound Design
+
+
+## Einführung
+
+::: warning Schnitt
+Es gibt eine technische Einführung.
+:::
+
+## Adobe Rush
+
+<span id="schnitt">
+
+### Projekt erstellen
+Kamerarolle wählen, um Material zu importieren.
+
+![Screenshot Adobe Rush](/images/schnitt/c1.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c2.jpg)
+
+
+### Timeline erstellen
+Gute Takes auswählen und in die Timeline einfügen.
+
+![Screenshot Adobe Rush](/images/schnitt/c3.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c5.jpg)
+
+
+### Trimmen
+Anfang und Ende der Takes wegschneiden. Dazu die breiteren Balken auf der Clip bewegen.
+
+![Screenshot Adobe Rush](/images/schnitt/c6.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c7.jpg)
+
+
+### Clips umsortieren
+Clips in der Timeline durch Drag 'n Drop sortieren. Durch langes Klicken auf einen Clip werden weitere Aktionen angezeigt.
+
+![Screenshot Adobe Rush](/images/schnitt/c9.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c10.jpg)
+
+
+### Soundtrack hinzufügen
+Unter dem Plus Symbol können Soundtracks und weitere Medien hinzugefügt werden.
+
+![Screenshot Adobe Rush](/images/schnitt/c13.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c14.jpg)
+
+
+### Voiceover hinzufügen
+Durch den Voiceover-Button kann ein Voiceover hinzugefügt werden. Die aktuelle Spur wird als Aufnahmespur verwendet.
+
+![Screenshot Adobe Rush](/images/schnitt/c16.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c19.jpg)
+
+### Titel hinzufügen
+Durch den Titel-Button kann ein Titel hinzugefügt werden.
+
+![Screenshot Adobe Rush](/images/schnitt/c20.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c21.jpg)
+
+### Farbkorrektur
+Durch den Farbkorrektur-Button kann eine Farbkorrektur hinzugefügt werden.
+
+![Screenshot Adobe Rush](/images/schnitt/c22.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c23.jpg)
+
+### Fertiges Video
+Durch den Export-Button rechts oben kann das fertige Video erstellt werden.
+
+![Screenshot Adobe Rush](/images/schnitt/c24.jpg)
+![Screenshot Adobe Rush](/images/schnitt/c25.jpg)
+
+</span>
 
 ## Rohschnitt
 
