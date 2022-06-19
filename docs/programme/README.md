@@ -1,12 +1,13 @@
-# Vorbereitung
+# Herzlich Willkommen! :)
 
-Herzlich Willkommen beim Workshop Mobile Videografie! :)
+beim Workshop Mobile Videografie! 
 
-Im Workshop wird es viel Input geben, bitte geht dieses Handout schon vorher auf Fragen durch.
+Im Workshop wird es viel Input geben, bitte geht dieses Handout schon vorher auf Fragen durch. Bringt gerne auch Fragen außerhalb dieses Handouts mit.
 
-Ebenfalls wird darum gebeten, dass im Vorfeld entstandene Fragen außerhalb dieses Handouts mitgebracht werden.
+:speech_balloon:-Kapitel sind ausschließlich für den Workshop bestimmt.<br>
+:gift:-Kapitel sind zur Nachbereitung gedacht, und werden im Workshop nicht behandelt.
 
-Bis bald! :tada:
+Bis bald!
 
 
 ## Bitte installieren
