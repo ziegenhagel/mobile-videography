@@ -42,6 +42,16 @@ Auch hier kann der Wert durch Antippen gelockt werden.
 
 ![Screenshot FiLMiC Pro](/images/kamera/c3.jpg)
 
+### Bildrate
+
+::: details Quiz: Mit wievielen Bildern nimmt Film auf?
+Durch Einstellung von 24 Bildern entsteht eine filmtypische Bewegungsunschärfe.
+
+Europäisches Fernsehen benutzt 25 Bilder bzw 50 Halbbilder pro Sekunde (PAL bei 50Hz Strom), USA 30 Bilder (NTSC bei 60Hz Strom).
+![Screenshot FiLMiC Pro](/images/kamera/c12.jpg)
+:::
+
+
 ### Manuelle Räder
 Durch Klick auf das Radsymbol können die Belichtungs- und Fokuseinstellungen präsize über die Beiden Räder eingestellt werden.
 
@@ -83,10 +93,8 @@ Bei kleinen Displays und Sonnenlicht kann diese Funktion nützlich sein, um den 
 Durch Klick auf das Einstellungs-Symbol können die Einstellungen geöffnet werden.
 
 ![Screenshot FiLMiC Pro](/images/kamera/c11.jpg)
-### 24 Bilder
-Durch Einstellung von 24 Bildern entsteht eine filmtypische Bewegungsunschärfe.
 
-![Screenshot FiLMiC Pro](/images/kamera/c12.jpg)
+### Aufnehmen
 
 Aufnahme wird durch den runden weissen Button in der Ecke gestartet, der bei Aufnahme rot dargestellt wird.
 Zeit, verbleibender Akku und Speicherplatz werden mittig angezeigt.
