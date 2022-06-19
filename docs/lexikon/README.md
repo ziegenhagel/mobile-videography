@@ -15,5 +15,3 @@ Wird diesselbe Einstellung nochmals gedreht, so spricht man von einem zweiten Ta
 ## Kadrage / Framing / Bildkomposition
 Bezeichnet, wie die Objekte in der Kamera positioniert werden.
 
-## Leading lines
-Linien, die das Auge in das Bild führen.

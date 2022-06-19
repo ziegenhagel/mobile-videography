@@ -93,6 +93,16 @@ Zeit, verbleibender Akku und Speicherplatz werden mittig angezeigt.
 
 ![Screenshot FiLMiC Pro](/images/kamera/c13.jpg)
 
+### Schnitt vorbereiten  
+
+Durch Klick auf den Play Button können alle Takes aufgelistet, exportiert oder gelöscht werden.
+
+![Screenshot FiLMiC Pro](/images/kamera/c14.jpg)
+
+Einzelnen Clip anwählen, um eine Vorschau zu sehen und die Trimmfunktion zu nutzen. 
+
+![Screenshot FiLMiC Pro](/images/kamera/c15.jpg)
+
 ## ND Filter
 
 Bei einer Handykamera mit fixer Blende und fest eingestellter Belichtungszeit kann nur der ISO Wert zum Belichten verwendet werden.

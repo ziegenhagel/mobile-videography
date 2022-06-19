@@ -3,9 +3,10 @@
 ## Mitbringen
 
 - Smartphone oder Tablet mit FiLMiC Pro und Adobe Rush installiert
-  - Bei Adobe Rush ist ein Login erforderlich
+  - Bitte direkt bei Adobe Rush einloggen
+  - Mind. 10 GB freien Speicher 
 - Eine Sonnenbrille mit Gläsern, falls vorhanden.
- 
+
 ## Apps
 - FiLMiC PRO
 
