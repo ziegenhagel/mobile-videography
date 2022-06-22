@@ -129,7 +129,7 @@ So sieht das Bild im Handy aus:
 Das Mobile-Videografie WLAN hat keine Internetverbindung, bietet aber Zugriff auf einige Webseiten dieses Kurses.
 Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz starten:
 
-<a href="//mobile-videografie.local:3000/quiz/2/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
+<a href="https://mobile-videografie.herokuapp.com/quiz/2/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
 
 
 ## :bellhop_bell: Pause
