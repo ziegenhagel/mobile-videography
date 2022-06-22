@@ -121,7 +121,7 @@ Aber gerade bei Außenaufnahmen ist die untere ISO Grenze fast sofort erreicht. 
 
 So sieht das Bild im Handy aus:
 
-<video src="/videos/kamera/nd.mov" lazy style="aspect-ratio:auto" muted autoplay loop >
+<video src="/videos/kamera/nd.mp4" lazy style="aspect-ratio:auto" muted autoplay loop >
 </video>
 
 ## :speech_balloon: Quiz
