@@ -28,6 +28,8 @@ Totale, Nahe, Groß, Detail
 Wir können das Bild immer in 180 Grad drehen, ohne das Publikum zu verwirren. Wie als würden wir vor einer Bühne sitzen.
 Sobald wir von der anderen Seite Filmen, sind Objekte auf der anderen Seite und Gesichter schauen in entgegengesetzte Richtungen. Das kann zu Irritation führen.
 
+![180 Grad Regel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/180_degree_rule.svg/1200px-180_degree_rule.svg.png)
+
 ### 30 Grad
 Einstellungen, die nacheinander geschnitten werden sollen, wirken wie ein Ransprung, sofern der  Winkel nicht mehr als 30 Grad verändert wurde.
 
@@ -91,18 +93,18 @@ Statt einem Gimbal kann aber auch ein Besenstiel, ein Handtuch oder ein Stapel B
 
 <video src="/videos/bildgestaltung/dolly.mp4" style="aspect-ratio:auto;" loop muted autoplay />
 
-### Slow Motion
+### :gift: Slow Motion
 In Slo-mo ist der Fokus auf Bewegungen viel genauer. Aufnahmen können "epischer" wahrgenommen werden.
 
-## Takes
+## :gift: Takes
 Immer mehrere Takes filmen. Das führt zur Perfektion der Aufnahme und erleichtert späteres Schneiden.
 
-## Set-Design
+## :gift: Set-Design
 Schön eingerichtete und ausgeleuchtete Locations.
 Beispielsweise im Hintergrund ein aufgeräumtes Regal mit Objekten zum Thema in einer leicht bläulichen Farbe angeleuchtet.
 Im Vordergrund gegenläufig gerichtetes weiches & warmes Licht auf der Person.
 
-## Farbgestaltung
+## :gift: Farbgestaltung
 Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requisite) und kann im Schnitt verfeinert werden, um Emotionen zu unterstützen.
 
 
