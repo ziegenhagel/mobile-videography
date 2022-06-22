@@ -28,7 +28,7 @@ Totale, Nahe, Groß, Detail
 Wir können das Bild immer in 180 Grad drehen, ohne das Publikum zu verwirren. Wie als würden wir vor einer Bühne sitzen.
 Sobald wir von der anderen Seite Filmen, sind Objekte auf der anderen Seite und Gesichter schauen in entgegengesetzte Richtungen. Das kann zu Irritation führen.
 
-![180 Grad Regel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/180_degree_rule.svg/1200px-180_degree_rule.svg.png)
+![180 Grad Regel](/images/bildgestaltung/180grad.png)
 
 ### 30 Grad
 Einstellungen, die nacheinander geschnitten werden sollen, wirken wie ein Ransprung, sofern der  Winkel nicht mehr als 30 Grad verändert wurde.
