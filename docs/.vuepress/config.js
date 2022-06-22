@@ -21,7 +21,7 @@ module.exports = {
         sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
         navbar: ['/', '/lexikon', '/zeitplan', {
             text: 'PDF',
-            link: 'https://mobile-videography.netlify.app/Zusammenfassung.pdf'
+            link: 'https://mobile-videografie.netlify.app/Zusammenfassung.pdf'
         }]
     }),
 }
