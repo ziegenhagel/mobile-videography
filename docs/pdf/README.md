@@ -38,13 +38,9 @@ Zum Beispiel:
 - Über Kamera/Ton/Schnitt/... möchte ich mehr lernen
 - Ich möchte Lernvideos/Szenischen Film/... machen
 
-
 ### 4. Online-Handout kennenlernen
 - Diese Webseite kennenlernen 
 - Alternativ [PDF herunterladen](/Zusammenfassung.pdf)
-
-
-
 # Film Analyse
 
 ## Film 1: Whodunnit 
@@ -278,7 +274,7 @@ Totale, Nahe, Groß, Detail
 Wir können das Bild immer in 180 Grad drehen, ohne das Publikum zu verwirren. Wie als würden wir vor einer Bühne sitzen.
 Sobald wir von der anderen Seite Filmen, sind Objekte auf der anderen Seite und Gesichter schauen in entgegengesetzte Richtungen. Das kann zu Irritation führen.
 
-![180 Grad Regel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/180_degree_rule.svg/1200px-180_degree_rule.svg.png)
+![180 Grad Regel](/images/bildgestaltung/180grad.png)
 
 ### 30 Grad
 Einstellungen, die nacheinander geschnitten werden sollen, wirken wie ein Ransprung, sofern der  Winkel nicht mehr als 30 Grad verändert wurde.
@@ -364,7 +360,7 @@ Koloration (engl. Color Grading) beginnt am Set (Mit Szenenbild, Kostüm, Requis
 Das Mobile-Videografie WLAN hat keine Internetverbindung, bietet aber Zugriff auf einige Webseiten dieses Kurses.
 Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz starten:
 
-<a href="//mobile-videografie.local:3000/quiz/1/controller" target="_blank" class="action-button " aria-label="Online-Handout ›"> Quiz starten › </a>
+<a href="https://mobile-videografie.herokuapp.com/quiz/1/controller" target="_blank" class="action-button " aria-label="Online-Handout ›"> Quiz starten › </a>
 
 ## :bellhop_bell: Pause
 Eine kurze Pause.
@@ -567,7 +563,7 @@ Aber gerade bei Außenaufnahmen ist die untere ISO Grenze fast sofort erreicht. 
 
 So sieht das Bild im Handy aus:
 
-<video src="/videos/kamera/nd.mov" lazy style="aspect-ratio:auto" muted autoplay loop >
+<video src="/videos/kamera/nd.mp4" lazy style="aspect-ratio:auto" muted autoplay loop >
 </video>
 
 ## :speech_balloon: Quiz
@@ -575,7 +571,7 @@ So sieht das Bild im Handy aus:
 Das Mobile-Videografie WLAN hat keine Internetverbindung, bietet aber Zugriff auf einige Webseiten dieses Kurses.
 Falls Du gerade im Mobile-Videografie WLAN arbeitest, kannst Du hier ein Quiz starten:
 
-<a href="//mobile-videografie.local:3000/quiz/2/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
+<a href="https://mobile-videografie.herokuapp.com/quiz/2/controller" target="_blank" class="action-button secondary" aria-label="Online-Handout ›"> Quiz starten › </a>
 
 
 ## :bellhop_bell: Pause
@@ -730,28 +726,6 @@ Durch den Export-Button rechts oben kann das fertige Video erstellt werden.
 Anfertigung der Rohschnitte. Ggf. Kopieren von Dateien per AirDrop oder Bluetooth.
 
 :::
-
-# Feedback
-
-## :speech_balloon: Runde
-- Über die entstandenen Filme austauschen.
-- Gemeinsames Brainstorming zur Umsetzung anstehender Projekte
-
-## :gift: Ausblick
-Möglichkeit bei Interesse und Zeit nochmal einen kleinen Exkurs in ein Teilgebiet zu machen.
-
-- Audio
-- Kameratheorie
-- Bildgestaltung
-- Optiklehre
-- Lichttheorie
-- Lichtgestaltung
-
-
-## :gift: Links
-- [Übersicht: Video im Unterricht](https://www.lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/baum/)
-- [Materialien: Video im Unterricht](https://www.lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/baum/mat/)
-- [Checkliste für Filmschnitt](https://filmpuls.info/video-schneiden-regeln/)
 
 # Lexikon
 

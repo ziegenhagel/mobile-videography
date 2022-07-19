@@ -18,7 +18,7 @@ module.exports = {
         contributors: false,
         tip: 'Tipp',
         logoDark: '/images/website/logo.png',
-        sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/feedback'],
+        sidebar: ['/basics', '/film-analyse', '/bildgestaltung', '/kamera', '/dreh', '/schnitt', '/offene-fragen'],
         navbar: ['/', '/lexikon', {
             text: 'PDF',
             link: 'https://mobile-videografie.netlify.app/Zusammenfassung.pdf'

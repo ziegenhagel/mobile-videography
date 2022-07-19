@@ -28,10 +28,6 @@ Zum Beispiel:
 - Über Kamera/Ton/Schnitt/... möchte ich mehr lernen
 - Ich möchte Lernvideos/Szenischen Film/... machen
 
-
 ### 4. Online-Handout kennenlernen
 - Diese Webseite kennenlernen 
 - Alternativ [PDF herunterladen](/Zusammenfassung.pdf)
-
-
-
